@@ -8,7 +8,7 @@ DESCRIPTION (Short and crispt - 2-3 sentences)
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| DD-MM-2026 | XX:XX AM/PM |  | X Hours |
+| DD-MM-2026 | XX:XX AM/PM | if venue not mentioned, put ------> Amrita Vishwa Vidyapeetham | X Hours |
 
 ## Rules and Regulations
 
