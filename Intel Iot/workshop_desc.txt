@@ -1,0 +1,26 @@
+Agentic AIoT Workshop :
+By inteliotclub.
+
+Objective
+
+The workshop aims to introduce participants to the emerging field of Agentic AIoT by blending intelligent software agents with IoT hardware systems. It helps participants understand how agent-based frameworks can autonomously reason, act, and interact with real-world devices, enabling smarter edge solutions. The session prepares students to build end-to-end AIoT pipeline from software agents to on-device implementation.
+
+Outcomes
+
+By the end of the workshop, participants will be able to:
+
+Understand the fundamentals of agentic systems and their role in modern AIoT architectures.
+
+Explore how software agents can plan, reason, and perform tasks autonomously.
+
+Gain hands-on exposure to integrating AI-driven agents with IoT hardware.
+
+Learn how real-time sensing, inference, and decision-making work together in edge environments.
+
+Build confidence to design small-scale agentic AIoT applications and extend them into larger projects or competitions.
+
+Bio of Resource Person: Mohan V
+
+Mohan V is an alumnus of Amrita Vishwa Vidyapeetham, Coimbatore, and currently works as an Application Developer at Oracle. He has strong professional and research experience in IoT, Artificial Intelligence, AIoT, and Agentic Systems, with a focus on building intelligent, real-world applications.
+
+As the Mentor of the Intel IoT Club, he has guided student teams in developing advanced AIoT solutions, integrating machine learning models on edge devices, and exploring emerging agentic frameworks. Mohan is known for his practical, industry-oriented teaching style and his ability to translate complex technical concepts into actionable, hands-on learning for students.
