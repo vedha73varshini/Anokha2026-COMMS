@@ -22,9 +22,7 @@ Energy Analyst at Centre for Energy Environment and Productivity , Coimbatore, T
 
   
 
-## Registration Fee
 
-Rs. 1000/-
 
 ## Event Schedule
 
