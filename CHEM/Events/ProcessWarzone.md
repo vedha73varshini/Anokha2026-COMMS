@@ -26,7 +26,7 @@ The Process warzone is a five-round technical-cum-interactive event designed to 
 
 ## Organized By
 
-Department: Chemical Engineering
+Department: Chemical Engineering and Materials Science
 
 ## For any queries contact:
 
