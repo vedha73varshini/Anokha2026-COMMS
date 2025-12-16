@@ -1,6 +1,23 @@
 # AI-Verse: One-Month AI Hackathon and On-Campus Grand Finale
 AI-Verse is a one-month, multi-domain hackathon designed to immerse students in high-impact areas of Artificial Intelligence. The event aims to foster innovation in Generative AI, Agentic AI, and AIoT systems, create a structured competitive environment where students engage in extended
 
+## Judges
+### 1. Aditya Karnik
+Aditya brings over 20 years of experience spanning start-ups, industrial research labs, and academia. His expertise includes AI, machine learning, data science, mathematical modelling, predictive analytics, optimization, and control. He has contributed across domains such as on-demand services, driving safety, industrial IoT, revenue management, and communication systems.
+
+LinkedIn: https://www.linkedin.com/in/aditya-karnik-167734
+
+ ### 2. Suresh Kumar Kodichath
+A seasoned product management leader with a background in entrepreneurship and software engineering. Formerly at Lowe’s, Suresh led AI/ML, search, and conversational technology initiatives contributing over $800M in incremental revenue. He holds an MBA from Babson College and brings strong expertise in AI-driven product innovation and eCommerce.
+
+LinkedIn: https://www.linkedin.com/in/kksuresh
+
+### 3. Santhosh N C
+A highly experienced DevSecOps engineer with over nine years of expertise in designing, securing, and operating applications and cloud infrastructure. Santhosh is proficient in multi-cloud environments, CI/CD automation, and scalable engineering practices. Known for strong leadership and collaborative skills, he has guided teams in delivering robust and reliable solutions.
+
+LinkedIn: https://www.linkedin.com/in/santhoshnc
+
+
 ## Event Schedule
 
 | Start Date | End Date   | Phase                        | Venue                       |
