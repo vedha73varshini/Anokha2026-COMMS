@@ -9,9 +9,9 @@ Where your team will develop innovative AI solutions for real-time data processi
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| 07-01-2026 | 09:00 AM | W301- AB1 | 8 Hours |
-| 08-01-2026 | 09:00 AM | W301- AB1 | 9 Hours |
-| 09-01-2026 | 09:00 AM | W301- AB1 | 6 Hours |
+| 07-01-2026 | 09:00 AM | TBD | 8 Hours |
+| 08-01-2026 | 09:00 AM | TBD | 9 Hours |
+| 09-01-2026 | 09:00 AM | TBD | 6 Hours |
 
 
 
@@ -33,4 +33,5 @@ Department: Aerospace Engineering
 - Sreedaran M: +91 9442472075
 - Ram Venkat Nesan: +91 9944860878
 - Mukuntha V: +91 7845762330
+
 
