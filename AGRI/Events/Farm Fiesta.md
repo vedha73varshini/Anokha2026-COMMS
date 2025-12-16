@@ -1,28 +1,27 @@
-# Name of the Event
-
-
-DESCRIPTION (Short and crispt - 2-3 sentences)
-
+# Farm Fiesta
+A four-level challenge that puts your teamwork and nature knowledge to the test. You’ll start by competing in 40 teams, racing to sort seeds and playing a fast-paced guessing game with your partner. As the rounds progress, you'll need to think quickly to build "word chains" of crops and use your eyes to match different plant leaves.
 
 ## Event Schedule
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| DD-MM-2026 | XX:XX AM/PM | if venue not mentioned, put ------> Amrita Vishwa Vidyapeetham | X Hours |
+| 07-01-2026 | 10:00 AM | Amrita Vishwa Vidyapeetham | 6 Hours |
 
 ## Rules and Regulations
 
-- A team must consist of 3 members.
-- Teams are prohibited from photographing or sharing clues or answers with other teams. Any team caught sharing clues or engaging in any form of malpractice will be immediately disqualified.
-- Teams are allowed to use the internet to assist in solving the puzzles.
-- All answers must be shown to the designated coordinators or volunteers for verification. Only after verification will teams receive the next puzzle and the location of the hidden clue.
+- Teams must follow all instructions provided by the coordinators.
+- Use of mobile phones during the game is strictly prohibited.
+- Any misconduct, arguments, or unfair practices will result in immediate disqualification.
+- Switching team members after registration is permitted only in genuine emergencies.
+- Re-entry into a round is not allowed once it has commenced.
 
 
 ## Organized By
 
-Department: Computer Science and Engineering
+Department: School of Agriculture
 
 ## For any queries contact:
 
-- Name : +91 94983 35950
-- Name : +91 6385 786 788
+- Keerthana - 7012122808 
+- Karthikeyan - 9042487622
+
