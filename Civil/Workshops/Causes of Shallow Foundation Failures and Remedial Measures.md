@@ -1,5 +1,5 @@
 
-## ACauses of Shallow Foundation Failures and Remedial Measures
+## Causes of Shallow Foundation Failures and Remedial Measures
 
 This workshop takes a look at why shallow foundations fail and how engineers fix these issues on real job sites. You’ll move beyond textbook formulas to explore practical examples and modern geotechnical solutions used in the field today. It’s a great way to see how engineering theory works in practice and gain a better understanding of what keeps structures standing.
 
