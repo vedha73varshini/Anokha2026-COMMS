@@ -1,5 +1,5 @@
 # AI-Verse: One-Month AI Hackathon and On-Campus Grand Finale
-AI-Verse is a one-month, multi-domain hackathon designed to immerse students in high-impact areas of Artificial Intelligence. The event aims to foster innovation in Generative AI, Agentic AI, and AIoT systems, create a structured competitive environment where students engage in extended
+AI-Verse is a one-month, multi-domain hackathon designed to immerse students in high-impact areas of Artificial Intelligence. The event aims to foster innovation in Generative AI, Agentic AI, and AIoT systems, create a structured competitive environment where students engage in extended prototype development, receive continuous mentorship, and solve industry-inspired problem statements that mirror real-world challenges. It culminates in an on-campus Grand Finale where teams showcase deployment-ready solutions, benefit from expert feedback, and unlock opportunities for internships, research collaborations, and entrepreneurial pursuits.
 
 ## Judges
 ### 1. Aditya Karnik
