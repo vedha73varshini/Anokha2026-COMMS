@@ -1,34 +1,32 @@
 
-## Name of the Workshop
-Description (2-3 sentences)
+## GameDev Sprint: Build Your First Playable Game in One Day
+A fun, interactive, and beginner-friendly workshop where participants learn the fundamentals of game development and create their own mini-game using Unity. By the end of the session, every participant will have a working, playable game they can showcase.
 
 ## Speaker
 
-- **Name**
-- **Company: Name of the company**
-- Mr. G Eswar Kumar Raju is an experienced Security Engineer with a solid background in the research industry. He specializes in various areas of cybersecurity, including embedded security, reverse engineering, and wireless security. His expertise extends to securing web, mobile, and thick-client applications, as well as network and system infrastructure. (description about the person)
+- **Name**: Rameshkumar Kalimuthu
+- **Company**: Trendsetters Infoservices (Part of ARK), Bangalore
 
 ## Objectives
-- point 1
-- point 2
-- point 3
-- 4 -5 points total
+- Teach the basics of game design: characters, movement, collision, scoring, and UI.
+- Introduce game engines and assets.
+- Enable participants to build a fully functional game from scratch. 
   
 ## Outcomes
--
--
-- 3-4 points
+- Build a playable 2D game using core development concepts in Unity.
+- Design characters and levels by applying assets and creative world-building.
+- Master game mechanics like player movement, collisions, and item collection.
+- Create a custom UI and export your final game for the entire world to play.
   
-
 ## Registration Fee
 
-Rs. 600/-
+Rs. 900/-
 
 ## Event Schedule
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 18-10-2026  | 02:00 pm  | 4 hours  | IF VENUE NOT MENTIONED, put ----> Amrita Vishwa Vidyapeetham    |
+| 07-01-2026  | 10:00 am  | 6 hours  | Amrita Vishwa Vidyapeetham    |
 
 ## Organized By
 
@@ -36,5 +34,6 @@ Department: Computer Science and Engineering
 
 ## For any queries, contact:
 
-- Anagh Shaji - 7994084338
-- Soffia - 9360008466
+- Nethra-8105450094
+- Harinie-9790827793
+
