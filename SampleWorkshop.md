@@ -20,9 +20,6 @@ Description (2-3 sentences)
 - 3-4 points
   
 
-## Registration Fee
-
-Rs. 600/-
 
 ## Event Schedule
 
