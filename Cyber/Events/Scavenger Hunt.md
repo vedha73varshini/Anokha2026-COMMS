@@ -17,6 +17,7 @@ Embark on a fast-paced, campus-wide scavenger hunt where every clue pushes your 
 - Teams must independently interpret and solve all clues without external human assistance
 - Running in restricted areas, damaging campus property, or engaging in unsafe behavior is strictly prohibited
 - Any violation of rules, misconduct, or attempt to gain unfair advantage will lead to disqualification of the entire team
+- Use of AI, Internet, calculators are allowed
 
 
 ## Organized By
