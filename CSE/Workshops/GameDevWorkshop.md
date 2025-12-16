@@ -17,10 +17,6 @@ A fun, interactive, and beginner-friendly workshop where participants learn the 
 - Design characters and levels by applying assets and creative world-building.
 - Master game mechanics like player movement, collisions, and item collection.
 - Create a custom UI and export your final game for the entire world to play.
-  
-## Registration Fee
-
-Rs. 900/-
 
 ## Event Schedule
 
