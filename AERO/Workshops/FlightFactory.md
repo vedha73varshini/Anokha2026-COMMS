@@ -30,8 +30,8 @@ Rs. 1499/- per head
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 07-01-2026  | 09:00 AM  | 7 hours  | C-205, AB1 |
-| 08-01-2026  | 09:00 AM  | 7 hours  | C-205, AB1 |
+| 07-01-2026  | 09:00 AM  | 7 hours  | TBD |
+| 08-01-2026  | 09:00 AM  | 7 hours  | TBD |
 
 
 ## Organized By
@@ -43,4 +43,5 @@ Department: Aerospace Engineering
 - Sanjay Pradnesh G: 9014852227, 
 - Pasupatheshwar T: 9443222851, 
 - Rishikesh S: 9345284596, 
+
 
