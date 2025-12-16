@@ -8,7 +8,7 @@ The Process warzone is a five-round technical-cum-interactive event designed to 
 
 | Date       | Time        | Reporting Venue | Duration |
 | ---------- | ----------- | --------------- | -------- |
-| 08-01-2026 |  | AB2, C401       | 6 Hours  |
+| 08-01-2026 |  | TBD       | 6 Hours  |
 
 ## Rules and Regulations
 - Use of mobile phones, internet, calculators, or any external reference material is strictly prohibited throughout the event.
