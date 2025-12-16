@@ -7,6 +7,8 @@ Ever wonder how AI actually "thinks" through a task? In this workshop, you'll mo
 - **Name**: Mr. Kamal N. S.
 - **Company**: Senior Data Scientist, Fractal Analytics | Part-time PhD Scholar, Amrita Vishwa Vidyapeetham
 
+Kamal focuses on GenAI and data-driven problem-solving. He draws on his industry background to give participants a practical look at how AI systems are actually built and managed in the real world.
+
 ## Objectives
 - Learn how AI agents differ from regular chatbots by exploring how they plan and reason.
 - Discover how to use open-source frameworks to create powerful systems without paying for expensive API keys.
@@ -16,10 +18,6 @@ Ever wonder how AI actually "thinks" through a task? In this workshop, you'll mo
 ## Outcomes
 - You will leave with a working AI agent that can plan and execute tasks on its own.
 - You’ll know how to build advanced AI systems for free, using local models and frameworks.
-
-## Registration Fee
-
-Rs. 400/-
 
 ## Event Schedule
 
