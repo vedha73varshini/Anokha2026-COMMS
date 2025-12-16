@@ -1,28 +1,26 @@
-# Name of the Event
+# CAD Clash: The Drafting Duel of Precision
 
-
-DESCRIPTION (Short and crispt - 2-3 sentences)
-
+In CAD Clash, you’ll take on the role of a pro architect to see how you handle the pressure of a real design brief. Starting with just a rough sketch, you’ll race the clock to turn dimensions and requirements into precise AutoCAD plans. It’s the ultimate test of your technical speed and accuracy—so grab your mouse, showcase your drafting skills, and compete for cash prizes.
 
 ## Event Schedule
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| DD-MM-2026 | XX:XX AM/PM | if venue not mentioned, put ------> Amrita Vishwa Vidyapeetham | X Hours |
+| 08-01-2026 | 02:00 PM | Amrita Vishwa Vidyapeetham | 2 Hours |
 
 ## Rules and Regulations
 
-- A team must consist of 3 members.
-- Teams are prohibited from photographing or sharing clues or answers with other teams. Any team caught sharing clues or engaging in any form of malpractice will be immediately disqualified.
-- Teams are allowed to use the internet to assist in solving the puzzles.
-- All answers must be shown to the designated coordinators or volunteers for verification. Only after verification will teams receive the next puzzle and the location of the hidden clue.
-
+- Each participant must compete individually. No teams or paired
+- All participants must report to the computer lab by 1:30 PM sharp for verification, system allocation, and briefing.
+- The Participants must follow proper architectural drafting standards
+-Any malpractice, external file usage, or system misuse will lead to immediate disqualification.
 
 ## Organized By
 
-Department: Computer Science and Engineering
+Department: Civil Engineering
 
 ## For any queries contact:
 
-- Name : +91 94983 35950
-- Name : +91 6385 786 788
+- Likitha -9791266083
+- Oshadheep Reddy -  9119196699
+
