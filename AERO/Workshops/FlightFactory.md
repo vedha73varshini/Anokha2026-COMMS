@@ -20,11 +20,7 @@ technology
 - Wire and integrate flight control systems and RC electronics.
 - Execute pre-flight checks and safety protocols.
 - Pilot your creation under professional supervision.
-  
 
-## Registration Fee
-
-Rs. 1499/- per head
 
 ## Event Schedule
 
@@ -43,5 +39,6 @@ Department: Aerospace Engineering
 - Sanjay Pradnesh G: 9014852227, 
 - Pasupatheshwar T: 9443222851, 
 - Rishikesh S: 9345284596, 
+
 
 
