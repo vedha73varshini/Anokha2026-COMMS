@@ -17,11 +17,6 @@ Ever wondered how movies like Avengers or Interstellar create their magic? In th
 - Understand hoe to take a short film from a rough 3D model to a finished, polished render.
 - Learn the industry secrets behind how professional movie shots are planned and executed.
 - Gain hands-on experience building iconic effects like magic sparks, HUDs, and dust simulations.
-  
-
-## Registration Fee
-
-Rs. 900/-
 
 ## Event Schedule
 
