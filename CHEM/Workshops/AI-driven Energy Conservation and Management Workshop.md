@@ -15,13 +15,10 @@ Energy Analyst at Centre for Energy Environment and Productivity , Coimbatore, T
 - Highlight how integrating AI/ML with conventional systems can enable predictive insights, anomaly detection, real-time optimisation, and intelligent decision-making, ultimately reducing operational costs and enhancing sustainability in industrial environments.
   
 ## Outcomes
-- Clearly understand the basic ideas behind energy managemen
-- Be able to spot where energy is being wasted and estimate how big the losses are
-- Learn how AI/ML can make energy saving easier by helping predict problems and suggest smarter decisions
-- Get familiar with important ISO standards and common industrial practices
-
-  
-
+- Clearly understand the basic ideas behind energy managemen.
+- Be able to spot where energy is being wasted and estimate how big the losses are.
+- Learn how AI/ML can make energy saving easier by helping predict problems and suggest smarter decisions.
+- Get familiar with important ISO standards and common industrial practices.
 
 
 ## Event Schedule
@@ -32,9 +29,9 @@ Energy Analyst at Centre for Energy Environment and Productivity , Coimbatore, T
 
 ## Organized By
 
-Department: Chemical Engineering
+Department: Chemical Engineering and Materials Science
 
 ## For any queries, contact:
 
-- R Abhinav - R Abhinav
+- R Abhinav - 9363075542
 - HANSINI ANAND  -  97410 75505    
