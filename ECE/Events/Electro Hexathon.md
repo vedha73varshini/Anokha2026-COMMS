@@ -1,4 +1,4 @@
-#Electro Hexathon
+# Electro Hexathon
 
 A high-intensity offline circuit challenge where teams race against time to design, simulate, and perfect solutions under strict constraints. Precision, strategy, and technical mastery decide who advances—and who gets eliminated.
 
