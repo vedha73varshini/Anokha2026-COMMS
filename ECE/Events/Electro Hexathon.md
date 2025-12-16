@@ -11,16 +11,15 @@ A high-intensity offline circuit challenge where teams race against time to desi
 
 ## Rules and Regulations
 
-- Only lab systems installed with LTSpice / CEDAR / Proteus may be used in the final 
-round.
-- Internet usage is strictly prohibited, unless explicitly permitted by coordinators.
-- Teams must complete each round within the allocated time.
-- Dress Code & Safety:
-- Boys must have shirts neatly tucked in.
-- Girls must keep hair neatly tied.
-- Loose clothing or accessories that may get entangled in circuits are prohibited.
-- Closed, rubber-soled shoes are mandatory; slippers, floaters, and slip-ons are not 
-allowed.
+- A Team-based event with maximum 4 members per team; only qualified teams advance to further rounds.
+- All rounds are offline; tiebreakers will be conducted in Rounds 1 & 2 if required.
+- Final-round simulation output must closely match the target result.
+- Unauthorized circuit topology changes, malpractice, or external help lead to disqualification.
+- Only regular students with valid ID cards are eligible.
+- Final round simulations must be done on LTSpice / CEDAR / Proteus systems; internet use is prohibited unless permitted.
+- Rounds must be completed within the given time.
+- Dress code & safety rules are mandatory (tucked shirts, tied hair, no loose accessories, closed rubber-soled shoes).
+- Judges’ and coordinators’ decisions are final.
 
 ## Organized By
 
