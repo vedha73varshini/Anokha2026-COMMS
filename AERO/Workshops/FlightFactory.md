@@ -1,14 +1,12 @@
 
 ## Flight Factory
-A two-day hands-on experiential learning workshop for passionate students to gain 
-practical knowledge in aerodynamics, 3D design, fabrication, and piloting of fixed-wing RC 
-aircraft. This isn't just a workshop - IT'S YOUR CHANCE TO CARVE AND FLY A FULLY FUNCTIONAL RC 
-PLANE, that too FROM SCRATCH!!
+Join us for a two day hands on learning experience for students who want to build, not just listen. Explore aerodynamics, 3D design, fabrication, and piloting while creating a fixed wing RC aircraft step by step. It is your chance to design, build, and fly a fully functional RC plane from scratch.
 
 
 ## Speaker
 
-- **Name: n/a**
+- **Gouthami T S**
+- **Jitendra Saini**
 - **Company: AEROGO BANGLORE**
 
 ## Objectives
@@ -26,7 +24,7 @@ technology
 
 ## Registration Fee
 
-₹1499 per participant
+Rs. 1499/- per head
 
 ## Event Schedule
 
@@ -45,3 +43,4 @@ Department: Aerospace Engineering
 - Sanjay Pradnesh G: 9014852227, 
 - Pasupatheshwar T: 9443222851, 
 - Rishikesh S: 9345284596, 
+
