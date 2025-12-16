@@ -11,17 +11,20 @@ Embark on a fast-paced, campus-wide scavenger hunt where every clue pushes your 
 
 ## Rules and Regulations
 
-- A team must consist of 3 members.
-- Teams are prohibited from photographing or sharing clues or answers with other teams. Any team caught sharing clues or engaging in any form of malpractice will be immediately disqualified.
-- Teams are allowed to use the internet to assist in solving the puzzles.
-- All answers must be shown to the designated coordinators or volunteers for verification. Only after verification will teams receive the next puzzle and the location of the hidden clue.
+- Participants must compete only in their registered teams.
+- All team members must be present together at each checkpoint to receive validation or the next clue
+- Teams must follow the sequence of clues provided and are not allowed to skip checkpoints
+- Teams must independently interpret and solve all clues without external human assistance
+- Running in restricted areas, damaging campus property, or engaging in unsafe behavior is strictly prohibited
+- Any violation of rules, misconduct, or attempt to gain unfair advantage will lead to disqualification of the entire team
 
 
 ## Organized By
 
-Department: Computer Science and Engineering
+Department: Computer Science and Engineering (Specialization in Cybersecurity)
 
 ## For any queries contact:
 
-- Anagha B Prasanth : +91 
-- Name : +91 6385 786 788
+- Anagha B Prasanth : +91 7736089615
+- V M Nitesh : +91 9347276551
+
