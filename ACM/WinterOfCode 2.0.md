@@ -11,7 +11,7 @@
 - WoC focuses on learning and personal growth by helping participants learn new skills, explore the latest technological landscape, and be a part of a strong open-source community at Amrita. The event is open to participants of all academic years and experience levels.
 
 ## Event Duration
-- TBD (Expected: 20 - 30 days)
+- TBD 
   
 
 ## WoC Page Link
