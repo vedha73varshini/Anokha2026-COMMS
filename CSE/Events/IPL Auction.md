@@ -1,21 +1,19 @@
-# Name of the Event
-
-
-DESCRIPTION (Short and crispt - 2-3 sentences)
+# Auction Arena
+Ever wanted to run your own IPL franchise? Grab three friends and step into the high-stakes world of the cricket boardroom! You'll act as team owners, managing a virtual budget to outbid your rivals and scout the perfect lineup. It’s a test of strategy, quick thinking, and cricket passion to see if you can build a championship-winning squad under pressure.
 
 
 ## Event Schedule
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| DD-MM-2026 | XX:XX AM/PM | if venue not mentioned, put ------> Amrita Vishwa Vidyapeetham | X Hours |
+| 08-01-2026 | 08:30 AM | Amrita Vishwa Vidyapeetham | 8 Hours |
 
 ## Rules and Regulations
 
 - A team must consist of 3 members.
-- Teams are prohibited from photographing or sharing clues or answers with other teams. Any team caught sharing clues or engaging in any form of malpractice will be immediately disqualified.
-- Teams are allowed to use the internet to assist in solving the puzzles.
-- All answers must be shown to the designated coordinators or volunteers for verification. Only after verification will teams receive the next puzzle and the location of the hidden clue.
+- Be early: 15 mins before the event starts for hall allocation and registration.
+- Bring Your Own Device (BYOD). Teams are allowed to use mobile phones, laptops, or tablets during the auction to track stats and manage budgets. 
+- However, devices are strictly prohibited during the tie-breaker quiz.
 
 
 ## Organized By
@@ -24,5 +22,6 @@ Department: Computer Science and Engineering
 
 ## For any queries contact:
 
-- Name : +91 94983 35950
-- Name : +91 6385 786 788
+- Honnessha-987121025
+- Mayuka-9363539200
+
