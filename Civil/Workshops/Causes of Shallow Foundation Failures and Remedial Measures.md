@@ -1,38 +1,38 @@
 
-## AI Agent Frameworks
-Ever wonder how AI actually "thinks" through a task? In this workshop, you'll move past simple chatbots and learn to build AI agents that can plan, reason, and get things done on their own. We’ll show you how to design these systems using entirely free, open-source tools—so you won't need to worry about paid API keys.
+## ACauses of Shallow Foundation Failures and Remedial Measures
+
+This workshop takes a look at why shallow foundations fail and how engineers fix these issues on real job sites. You’ll move beyond textbook formulas to explore practical examples and modern geotechnical solutions used in the field today. It’s a great way to see how engineering theory works in practice and gain a better understanding of what keeps structures standing.
 
 ## Speaker
 
-- **Name**: Mr. Kamal N. S.
-- **Company**: Senior Data Scientist, Fractal Analytics | Part-time PhD Scholar, Amrita Vishwa Vidyapeetham
+- **Name**: Dr. A. Boominathan
+- **Company**: Geotechnical Engineer and former Professor at IIT Madras
+  Dr. A. Boominathan is a leading geotechnical engineer with over 30 years of expertise in soil dynamics, earthquake engineering,and foundation engineering. He holds a Ph.D. from the Moscow Civil Engineering Institute and has published 190+ research papers and 14 book chapters. He is a Fellow of the Indian Geotechnical Society and a member of several international
+professional bodies, with multiple prestigious awards for his research
+
 
 ## Objectives
-- Learn how AI agents differ from regular chatbots by exploring how they plan and reason.
-- Discover how to use open-source frameworks to create powerful systems without paying for expensive API keys.
-- Get hands-on experience setting up agents that can handle multi-step tasks from start to finish.
-- Move from conceptual ideas to a working application that solves a real-world problem.
+To help participants understand why shallow foundations fail, how to identify warning signs, and what engineering solutions can prevent or mitigate suchFailures.
   
 ## Outcomes
-- You will leave with a working AI agent that can plan and execute tasks on its own.
-- You’ll know how to build advanced AI systems for free, using local models and frameworks.
-
-## Registration Fee
-
-Rs. 400/-
+- A clear understanding of why shallow foundations fail.
+- Practical tips to spot early warning signs in structures.
+- Insight into real-world solutions and modern remedial techniques.
+- Case-based learning from one of India’s top geotechnical experts.
 
 ## Event Schedule
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 18-10-2026  | 09:30 am  | 4 hours  | Amrita Vishwa Vidyapeetham    |
+| 07-01-2026  | 02:00 pm  | 2 hours  | Amrita Vishwa Vidyapeetham    |
 
 ## Organized By
 
-Department: Artificial Intelligence Engineering
+Department: Civil Engineering
 
 ## For any queries, contact:
 
-- Anirudh - 9544370049
-- Niharika - 9043909441
+- Likitha -9791266083
+- Jithin -  9014460335
+
 
