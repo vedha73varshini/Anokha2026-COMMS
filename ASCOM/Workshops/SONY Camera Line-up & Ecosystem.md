@@ -1,12 +1,13 @@
 # SONY Camera Line-up & Ecosystem
-
+Step into the world of professional photography and videography with hands-on access to Sony’s APS-C and full-frame camera ecosystem.
+Learn real shooting workflows, lenses, lighting, and camera handling directly from an industry expert at Sony India.
 
 ## Speaker
 
 - **Mr. Soundarajan**
 - **Company: Sony India Pvt. Ltd**
   
-  Mr. Soundarrajan S is a Digital Imaging Specialist at Sony India Pvt. Ltd., Coimbatore. He has extensive experience in professional photography and videography solutions and has conducted multiple hands-on workshops across institutions, including previous editions of ANOKHA. His sessions focus on practical camera handling, lenses, lighting techniques, and real-world shooting workflows.
+Mr. Soundarrajan S is a Digital Imaging Specialist at Sony India Pvt. Ltd., Coimbatore. He has extensive experience in professional photography and videography solutions and has conducted multiple hands-on workshops across institutions, including previous editions of ANOKHA. His sessions focus on practical camera handling, lenses, lighting techniques, and real-world shooting workflows.
 
 ## Objectives
 
@@ -17,7 +18,6 @@ To provide students with industry-level exposure to professional photography and
 ## Outcomes
 
 Participants will gain hands-on experience with professional Sony camera systems, improve technical understanding of photography and videography workflows, and interact directly with industry experts.
-
 
 
 ## Registration Fee
