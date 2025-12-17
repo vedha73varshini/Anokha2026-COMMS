@@ -25,7 +25,7 @@ Explore and build a strong foundation in setting design goals, applying constrai
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 07-01-2026  | 09:00 AM | 7 hours | CAD LAB 1 (AB1)  |
+| 07-01-2026  | 09:00 AM | 7 hours | TBD  |
 
 
 ## Organized By
@@ -36,4 +36,5 @@ Department: Mechanical Engineering
 
 - Naavin D -8870566532
 - Sai Srija- 7975239415
+
 
