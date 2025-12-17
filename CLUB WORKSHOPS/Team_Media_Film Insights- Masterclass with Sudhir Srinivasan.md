@@ -6,19 +6,26 @@
 ## Speaker
 
 - **Sudhir Srinivasan**
-- **Company: Name of the company**
-- Mr. G Eswar Kumar Raju is an experienced Security Engineer with a solid background in the research industry. He specializes in various areas of cybersecurity, including embedded security, reverse engineering, and wireless security. His expertise extends to securing web, mobile, and thick-client applications, as well as network and system infrastructure. (description about the person)
+- **Executive Editor(Entertainment) of The New Indian Express.**<br>
+Sudhir Srinivasan is an entertainment editor, writer, film critic, interviewer, and sports commentator with over 15 years of experience working with leading media organizations, including The New Indian Express, The Hindu, and The Times of India
 
 ## Objectives
-- point 1
-- point 2
-- point 3
-- 4 -5 points total
+- To provide students with insider knowledge of film analysis and filmmaking.
+- To expose participants to film criticism, storytelling, and cinematic perspectives.
+- To encourage creative thinking among students interested in filmmaking, content creation, and media studies.
+- To offer participants the opportunity to interact with a renowned industry professional.
+
   
 ## Outcomes
--
--
-- 3-4 points
+- Develop a Deeper Understanding of Cinema
+- Enhance Film Analysis Skills
+- Gain Insight into Constructive Criticism of films
+- Strengthen Creative and Storytelling Thinking
+- Stay Informed on Industry Trends
+- Improve Communication and Questioning Skills
+- Gain Professional Exposure and Inspiration
+- Encourage Informed Career Exploration
+
   
 
 
@@ -26,13 +33,12 @@
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 18-10-2026  | 02:00 pm  | 4 hours  | IF VENUE NOT MENTIONED, put ----> Amrita Vishwa Vidyapeetham    |
+| 09-01-2026  | 09:30 AM  | 3.5 hours  | TBD    |
 
 ## Organized By
-
-Department: Computer Science and Engineering
+Club : Team Media
 
 ## For any queries, contact:
 
-- Anagh Shaji - 7994084338
-- Soffia - 9360008466
+- Rahul Kannaa K S: 9363125428
+- Deepak Reddy N: 6300177876
