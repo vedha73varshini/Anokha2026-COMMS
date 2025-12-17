@@ -35,4 +35,5 @@ Department: Mechanical Engineering
 
 ## For any queries, contact:
 
-- Srija: anokhamechteam@cb.amrita.edu
+- Naavin D -8870566532
+- Sai Srija- 7975239415
