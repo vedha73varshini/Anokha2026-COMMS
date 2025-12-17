@@ -1,38 +1,36 @@
 
-## AI Agent Frameworks
-Ever wonder how AI actually "thinks" through a task? In this workshop, you'll move past simple chatbots and learn to build AI agents that can plan, reason, and get things done on their own. We’ll show you how to design these systems using entirely free, open-source tools—so you won't need to worry about paid API keys.
+## GROOVE – Move with the Music
+
+Get ready to swap your routine for the rhythm at NATYA, an immersive dance workshop led by the high-energy Prasanth Vellingiri. Whether you’re a total beginner or a seasoned mover, this session is about more than just hitting the right counts—it’s about finding your "groove."
 
 ## Speaker
 
-- **Name**: Mr. Kamal N. S.
-- **Company**: Senior Data Scientist, Fractal Analytics | Part-time PhD Scholar, Amrita Vishwa Vidyapeetham
+- **Name**: Mr. Prasanth Vellingiri
+- **Company**: Founder and Artistic Director of Prasanth Dance House.
+
+Prasanth Vellingiri, Founder and Artistic Director of Prasanth Dance House, is a professionally trained choreographer with a career in dance since 2007. He has performed on major TV platforms such as Vijay TV’s Jodi Are You Ready, BB Jodigal, Super Singer, and Colors Tamil’s Dance vs Dance (Runner-up). Known for his energetic teaching style and expertise across street styles, contemporary, and thematic choreography, he brings both passion and precision to every session.
 
 ## Objectives
-- Learn how AI agents differ from regular chatbots by exploring how they plan and reason.
-- Discover how to use open-source frameworks to create powerful systems without paying for expensive API keys.
-- Get hands-on experience setting up agents that can handle multi-step tasks from start to finish.
-- Move from conceptual ideas to a working application that solves a real-world problem.
+-  Introduce students to the foundations of Hip-Hop and House, focusing on groove, rhythm, footwork, and overall movement quality.
+- Guide beginners through step-by-step instruction, and structured practice to help them learn confidently and comfortably.
+- Build each participant’s stage presence, coordination, confidence, and performance readiness.
   
 ## Outcomes
-- You will leave with a working AI agent that can plan and execute tasks on its own.
-- You’ll know how to build advanced AI systems for free, using local models and frameworks.
+- Students will learn a full choreography and get the opportunity to perform it at the end of the workshop.
+- Participants will develop a clear understanding of movement quality, freestyle basics, and essential Hip-Hop and House techniques.
+- The session will strengthen rhythm sense, body control, and overall confidence while ensuring an enjoyable dance experience.
 
-## Registration Fee
-
-Rs. 400/-
 
 ## Event Schedule
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 18-10-2026  | 09:30 am  | 4 hours  | Amrita Vishwa Vidyapeetham    |
+| xx-01-2026  | 02:00 am  | 2 hours  | Amrita Vishwa Vidyapeetham    |
 
 ## Organized By
 
-Department: Artificial Intelligence Engineering
+Club: Natyasudha
 
 ## For any queries, contact:
 
-- Anirudh - 9544370049
-- Niharika - 9043909441
 
