@@ -1,38 +1,36 @@
+## Agentic AIoT Workshop
 
-## AI Agent Frameworks
-Ever wonder how AI actually "thinks" through a task? In this workshop, you'll move past simple chatbots and learn to build AI agents that can plan, reason, and get things done on their own. We’ll show you how to design these systems using entirely free, open-source tools—so you won't need to worry about paid API keys.
+n this workshop, we move beyond "smart" gadgets that just follow orders to build Agentic AIoT—systems where devices actually think for themselves. You’ll learn how to give hardware a digital "brain," teaching software agents to reason, make decisions, and take real-world action. By bridging the gap between intelligent code and physical sensors, you'll walk away knowing how to turn a simple device into a truly autonomous teammate capable of solving problems on its own.
 
 ## Speaker
 
-- **Name**: Mr. Kamal N. S.
-- **Company**: Senior Data Scientist, Fractal Analytics | Part-time PhD Scholar, Amrita Vishwa Vidyapeetham
+- **Name**: Mr. Mohan V
+- **Company**: Application Developer at Oracle
+
+Mr. Mohan V is an alumnus of Amrita Vishwa Vidyapeetham, Coimbatore. He has a strong professional and research experience in IoT, Artificial Intelligence, AIoT, and Agentic Systems, with a focus on building intelligent, real-world applications.
 
 ## Objectives
-- Learn how AI agents differ from regular chatbots by exploring how they plan and reason.
-- Discover how to use open-source frameworks to create powerful systems without paying for expensive API keys.
-- Get hands-on experience setting up agents that can handle multi-step tasks from start to finish.
-- Move from conceptual ideas to a working application that solves a real-world problem.
+
+- Introduce participants to the emerging field of Agentic AIoT
+- Understand how agent-based frameworks can autonomously reason, act, and interact with real-world devices, enabling smarter edge solutions.
+- Build end-to-end AIoT pipeline from software agents to on-device implementation
   
 ## Outcomes
-- You will leave with a working AI agent that can plan and execute tasks on its own.
-- You’ll know how to build advanced AI systems for free, using local models and frameworks.
-
-## Registration Fee
-
-Rs. 400/-
+- Understand the fundamentals of agentic systems and their role in modern AIoT architectures.
+- Explore how software agents can plan, reason, and perform tasks autonomously.
+- Learn how real-time sensing, inference, and decision-making work together in edge environments.
+- Build confidence to design small-scale agentic AIoT applications and extend them into larger projects or competitions.
 
 ## Event Schedule
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 18-10-2026  | 09:30 am  | 4 hours  | Amrita Vishwa Vidyapeetham    |
+| xx-01-2026  | xx:xx am  | x hours  | Amrita Vishwa Vidyapeetham  |
 
 ## Organized By
 
-Department: Artificial Intelligence Engineering
+Club: Intel Iot
 
 ## For any queries, contact:
 
-- Anirudh - 9544370049
-- Niharika - 9043909441
 
