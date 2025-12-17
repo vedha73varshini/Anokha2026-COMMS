@@ -1,38 +1,33 @@
 
-## AI Agent Frameworks
-Ever wonder how AI actually "thinks" through a task? In this workshop, you'll move past simple chatbots and learn to build AI agents that can plan, reason, and get things done on their own. We’ll show you how to design these systems using entirely free, open-source tools—so you won't need to worry about paid API keys.
+## Star Gazing Night
+
+Join us for a celestial adventure where we turn "just stars" into stories. Guided by expert astronomers, you’ll get a front-row seat to Saturn’s icy rings and the rugged, ancient craters of the Moon.
 
 ## Speaker
 
-- **Name**: Mr. Kamal N. S.
-- **Company**: Senior Data Scientist, Fractal Analytics | Part-time PhD Scholar, Amrita Vishwa Vidyapeetham
+- **Name**: Mr. Pradeep R S 
+- **Company**: Secretary of Coimbatore Astronomy Club 
 
 ## Objectives
-- Learn how AI agents differ from regular chatbots by exploring how they plan and reason.
-- Discover how to use open-source frameworks to create powerful systems without paying for expensive API keys.
-- Get hands-on experience setting up agents that can handle multi-step tasks from start to finish.
-- Move from conceptual ideas to a working application that solves a real-world problem.
+
   
 ## Outcomes
-- You will leave with a working AI agent that can plan and execute tasks on its own.
-- You’ll know how to build advanced AI systems for free, using local models and frameworks.
 
-## Registration Fee
 
-Rs. 400/-
 
 ## Event Schedule
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 18-10-2026  | 09:30 am  | 4 hours  | Amrita Vishwa Vidyapeetham    |
+| xx-01-2026  | 07:00 am  | 3 hours  | Amrita Vishwa Vidyapeetham    |
 
 ## Organized By
 
-Department: Artificial Intelligence Engineering
+Club: Astra
 
 ## For any queries, contact:
 
-- Anirudh - 9544370049
-- Niharika - 9043909441
+- Samala Phani Chandra- 9959501235
+- Angel - 7025761542
+
 
