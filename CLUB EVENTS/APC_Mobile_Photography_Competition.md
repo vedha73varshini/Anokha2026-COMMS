@@ -12,7 +12,11 @@ The event aims to encourage creativity, visual storytelling, and mobile photogra
 ## Rules and Regulations
 -  Individual participation only (no group entries)
 -  Participants must capture photographs within the allotted time
--  
+- The competition follows a spot photography format
+- Only mobile phones are allowed. DSLR, mirrorless, point-and-shoot, and action cameras, or drone photography, are strictly not permitted
+- Each participant may submit only one photograph
+- Plagiarism or use of previously taken photos will lead to disqualification
+
 
 ## Organized By
 
