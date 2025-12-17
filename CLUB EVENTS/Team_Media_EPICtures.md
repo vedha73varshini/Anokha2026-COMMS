@@ -49,6 +49,9 @@ EPICtures 2026, The Short Film Festival of ANOKHA 2026-The 13th Annual National 
        - Meaningfulness
        - Replay Value
 
+## Judge
+Mr. Sudhir Srinivasan<br> 
+The Executive Editor(Entertainment) of The New Indian Express
 ## Organized By
 
 Club: Team Media
