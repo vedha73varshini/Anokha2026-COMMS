@@ -1,28 +1,27 @@
-# Name of the Event
+# The Informant's Gambit: Strategy and Truth
 
-
-DESCRIPTION (Short and crispt - 2-3 sentences)
-
+Dive into a high-stakes investigation where every clue is a trap, every testimony hides something, and every team fights to outthink the rest. Teams must reconstruct what actually happened using perspectives, interrogation, and live evidence—then defend their theory in a ruthless courtroom finale.
 
 ## Event Schedule
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| DD-MM-2026 | XX:XX AM/PM | if venue not mentioned, put ------> Amrita Vishwa Vidyapeetham | X Hours |
+| DD-MM-2026 | 09:00 AM | Amrita Vishwa Vidyapeetham | 4 Hours |
 
 ## Rules and Regulations
 
 - A team must consist of 3 members.
-- Teams are prohibited from photographing or sharing clues or answers with other teams. Any team caught sharing clues or engaging in any form of malpractice will be immediately disqualified.
-- Teams are allowed to use the internet to assist in solving the puzzles.
-- All answers must be shown to the designated coordinators or volunteers for verification. Only after verification will teams receive the next puzzle and the location of the hidden clue.
+- No eliminations—every team competes through all rounds
+- Hidden mechanics and surprise elements will be revealed on event day
+- Present your complete theory and survive brutal cross-examination—only one team will prove the truth.
 
 
 ## Organized By
 
-Department: Computer Science and Engineering
+Club: ATC
 
 ## For any queries contact:
 
-- Name : +91 94983 35950
-- Name : +91 6385 786 788
+- Namitha - 9061340905
+- Harshitha - 9789053345
+
