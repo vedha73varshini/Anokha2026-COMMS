@@ -1,38 +1,38 @@
+## Unveiling Alien Atmospheres with JWST: A Hands-On Exoplanet Workshop 
 
-## AI Agent Frameworks
-Ever wonder how AI actually "thinks" through a task? In this workshop, you'll move past simple chatbots and learn to build AI agents that can plan, reason, and get things done on their own. We’ll show you how to design these systems using entirely free, open-source tools—so you won't need to worry about paid API keys.
+Unlock the secrets of distant worlds with this high-energy, hands-on workshop powered by real JWST exoplanet data! You'll analyse alien atmospheres, run powerful Python tools, and watch features like water vapour and clouds reveal themselves in live-generated spectra. With guided access to PetitRADTRANS, you'll experience how real researchers decode planets light-years away.
 
 ## Speaker
 
-- **Name**: Mr. Kamal N. S.
-- **Company**: Senior Data Scientist, Fractal Analytics | Part-time PhD Scholar, Amrita Vishwa Vidyapeetham
+- **Name**: Dr. Vigneshwaran Krishnamurthy
+- **Company**: Trottier Space Institute, McGill University
+
+Dr. Vigneshwaran Krishnamurthy is a postdoctoral researcher at McGill University's Trottier Space Institute, where he studies exoplanets and their atmospheres using cutting-edge space and ground-based observations. His work blends advanced spectroscopy with atmospheric modelling to uncover the physical and chemical diversity of distant worlds. Dr. Krishnamurthy is also committed to science outreach and interactive learning that makes astrophysics exciting and accessible.
+
 
 ## Objectives
-- Learn how AI agents differ from regular chatbots by exploring how they plan and reason.
-- Discover how to use open-source frameworks to create powerful systems without paying for expensive API keys.
-- Get hands-on experience setting up agents that can handle multi-step tasks from start to finish.
-- Move from conceptual ideas to a working application that solves a real-world problem.
+- Introduce participants to exoplanet atmospheric science using JWST data and spectroscopy techniques.
+- Learn practical Python-based spectral analysis skills.
+- Demonstrate atmospheric modelling with PetitRADTRANS software.
+- Get to know how to interpret key spectral signatures in exoplanet data.
   
 ## Outcomes
-- You will leave with a working AI agent that can plan and execute tasks on its own.
-- You’ll know how to build advanced AI systems for free, using local models and frameworks.
-
-## Registration Fee
-
-Rs. 400/-
+- Analyse real JWST exoplanet data using Python-based spectroscopy tools.
+- Identify and interpret key spectral signatures such as water vapor and clouds in exoplanet atmospheres.
 
 ## Event Schedule
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 18-10-2026  | 09:30 am  | 4 hours  | Amrita Vishwa Vidyapeetham    |
+| xx-01-2026  | 09:00 am  | 4 hours  | Amrita Vishwa Vidyapeetham  |
 
 ## Organized By
 
-Department: Artificial Intelligence Engineering
+Club: Astra 
 
 ## For any queries, contact:
 
-- Anirudh - 9544370049
-- Niharika - 9043909441
+- Samala Phani Chandra- 9959501235
+- Angel - 7025761542
+
 
