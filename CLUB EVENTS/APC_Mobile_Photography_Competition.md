@@ -7,7 +7,7 @@ The event aims to encourage creativity, visual storytelling, and mobile photogra
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| 08-01-2026 | 10:00 AM | TBD | 1.5 Hours |
+| 08-01-2026 | 11:00 AM | TBD | 7 Hours |
 
 ## Rules and Regulations
 -  Individual participation only (no group entries)
