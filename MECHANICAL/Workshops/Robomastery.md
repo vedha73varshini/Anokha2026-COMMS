@@ -25,8 +25,8 @@ Learn fundamentals of robotics, including its evolution, core automation princip
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 07-01-2026  | 09:00 AM | 7 hours | CP lab 2 (AB1)  |
-| 08-01-2026  | 09:00 AM | 3 hours | CP lab 2 (AB1)  |
+| 07-01-2026  | 09:00 AM | 7 hours | TBD  |
+| 08-01-2026  | 09:00 AM | 3 hours | TBD  |
 
 
 ## Organized By
@@ -37,3 +37,4 @@ Department: Mechanical Engineering
 
 - Naavin D -8870566532
 - Sai Srija- 7975239415
+
