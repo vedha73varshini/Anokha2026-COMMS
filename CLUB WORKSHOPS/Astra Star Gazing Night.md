@@ -6,14 +6,15 @@ Join us for a celestial adventure where we turn "just stars" into stories. Guide
 ## Speaker
 
 - **Name**: Mr. Pradeep R S 
-- **Company**: Secretary of Coimbatore Astronomy Club 
+- **Company**: Secretary of Coimbatore Astronomy Club
 
-## Objectives
+## Rules and Regulations
 
-  
-## Outcomes
-
-
+- Participants must carry their student ID/registration confirmation.
+- Do not touch or adjust telescopes and equipment without permission from organizers. Participants are liable for any damage caused by mishandling.
+- Maintain silence during observations and lectures. Stay within designated areas. Follow all safety instructions and adhere to Amrita University's Code of Conduct.
+- Flash photography and bright lights are strictly prohibited.
+- Event will shift to a Classroom if weather is unsuitable.
 
 ## Event Schedule
 
