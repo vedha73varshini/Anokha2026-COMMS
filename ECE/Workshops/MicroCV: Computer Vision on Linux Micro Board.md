@@ -3,7 +3,6 @@
 Build intelligent vision systems on compact embedded platforms! Learn camera integration, deploy optimized AI/CV models, and create real-time detection and tracking applications. Master performance tuning and end-to-end deployment on Linux micro boards. Gain practical skills to design embedded CV solutions for projects, research, or products—turning small boards into powerful vision engines!
 
 ## Speaker
-
 - **Mr.Manojkumar P C**
 - **Mr.Tatwik**
 - **Company: Anyarobotics and Automation Pvt Ltd**
