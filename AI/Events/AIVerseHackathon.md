@@ -20,13 +20,13 @@ LinkedIn: https://www.linkedin.com/in/santhoshnc
 
 ## Event Schedule
 
-| Start Date | End Date   | Phase                        | Venue                       |
-| ---------- | ---------- | ---------------------------- | ----------------------------|
-| 05-12-2025 | N/A        | Problem Statement Release    | Online                      |
-| 05-12-2025 | 24-12-2025 | Prototypes Submission Window | Online                      |
-| 25-12-2025 | N/A        | Shortlisting of Prototypes   | Online                      |
-| 26-12-2025 | 07-01-2026 | Prototypes Submission Window | Online                      |
-| 08-01-2026 | N/A        | Grand Finale                 | TBD                         |
+| Date/Time                | Phase                        | Venue                       |
+| ------------------------ | ---------------------------- | ----------------------------|
+| 05-12-2025               | Problem Statement Release    | Online                      |
+| 05-12-2025 to 24-12-2025 | Prototypes Submission Window | Online                      |
+| 25-12-2025               | Shortlisting of Prototypes   | Online                      |
+| 26-12-2025 to 07-01-2026 | Prototypes Submission Window | Online                      |
+| 08-01-202, 9 am - 6 pm   | Grand Finale                 | TBD                         |
 
 ## Rules and Regulations
 
