@@ -63,7 +63,7 @@ LinkedIn: https://www.linkedin.com/in/santhoshnc
   - Winners, 1st and 2nd runners-up in each domain receive **special recognition certificates, prize money, and mementos**.
 
 ## Organized By
-Department: Aritifical Intelligence Engineering
+Department: School of Artifical Intelligence 
 
 ## For any queries contact:
 
