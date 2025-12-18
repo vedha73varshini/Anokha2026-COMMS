@@ -25,12 +25,12 @@ Prasanth Vellingiri, Founder and Artistic Director of Prasanth Dance House, is a
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| xx-01-2026  | 02:00 am  | 2 hours  | Amrita Vishwa Vidyapeetham    |
+| 09-01-2026  | 2:00 PM - 4:00 PM  | 2 hours  | Amrita Vishwa Vidyapeetham    |
 
 ## Organized By
 
 Club: Natyasudha
 
 ## For any queries, contact:
-
+- Boomika P Nair -  7799229909
 
