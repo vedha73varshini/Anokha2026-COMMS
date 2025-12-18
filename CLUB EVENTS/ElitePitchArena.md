@@ -11,7 +11,11 @@ Dive into the world of entrepreneurship at Elite Pitch Arena, where student inno
 ## Rules and Regulations
 
 - A team must consist of 3-4 members.
-- TBD
+- Pitching Session: Participants or teams present their ideas in a concise 3 minute pitch followed by a 2 minute Q&A, covering the problem, solution, business model, and scalability.
+- Audience Investment Round: The audience receives symbolic credits at the start and invests them in ideas they believe in, simulating real world investor decision making.
+- Judging & Evaluation: Invited judges assess pitches based on innovation, feasibility, and market potential.
+- Final Scoring: Winners are determined through a combined score from judges’ evaluations and audience investment outcomes.
+- Awards & Recognition: Top teams are recognized and awarded across relevant categories.
 
 
 ## Organized By
@@ -21,4 +25,5 @@ Club: ELITE club
 ## For any queries contact:
 
 - Anish Visakan : +91 98948 40983
+
 
