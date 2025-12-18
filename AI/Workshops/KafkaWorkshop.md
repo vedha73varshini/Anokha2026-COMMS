@@ -16,11 +16,10 @@ Niveth has expertise in backend engineering and Android development, supported b
 LinkedIn: https://www.linkedin.com/in/nivethsaran/?originalSubdomain=in
 
 ## Objectives
-- Equip participants with hands-on skills in acquiring biomedical signals (ECG, EMG, PPG, PCG).  
-- Train participants to process and analyze these biomedical signals.  
-- Introduce practical applications of biomedical signals in rehabilitation robotics.  
-- Build a foundation for intelligent assistive technology development.  
-- Connect biosignal acquisition with robotic control and performance evaluation.
+- Equip students with practical, industry-grade knowledge of event-driven architectures and real-time data streaming using Apache Kafka.
+- Closing the gap between academic exposure and modern software engineering practices used in tech companies
+today.
+
   
 ## Outcomes
 - Participants will simulate real-world industry use cases such as fraud detection pipelines, log streaming, microservices communication, and distributed messaging.
