@@ -6,7 +6,7 @@ Dive into a high-stakes investigation where every clue is a trap, every testimon
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| DD-MM-2026 | 09:00 AM | Amrita Vishwa Vidyapeetham | 4 Hours |
+| DD-MM-2026 | 09:00 AM - 1:00 PM | Amrita Vishwa Vidyapeetham | 4 Hours |
 
 ## Rules and Regulations
 
