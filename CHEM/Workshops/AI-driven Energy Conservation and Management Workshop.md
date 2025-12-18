@@ -25,7 +25,7 @@ Energy Analyst at Centre for Energy Environment and Productivity , Coimbatore, T
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 07-01-2026  | 09:00 pm  | 8 hours  | TBD    |
+| 07-01-2026  | 09:00 am  - 05:00 pm| 8 hours  | TBD    |
 
 ## Organized By
 
