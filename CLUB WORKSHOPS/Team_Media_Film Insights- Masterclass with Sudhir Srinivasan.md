@@ -17,15 +17,11 @@ Sudhir Srinivasan is an entertainment editor, writer, film critic, interviewer, 
 
   
 ## Outcomes
-- Develop a Deeper Understanding of Cinema
-- Enhance Film Analysis Skills
-- Gain Insight into Constructive Criticism of films
-- Strengthen Creative and Storytelling Thinking
-- Stay Informed on Industry Trends
-- Improve Communication and Questioning Skills
-- Gain Professional Exposure and Inspiration
-- Encourage Informed Career Exploration
-
+- Build a structured understanding of cinema as an art form, industry, and medium of communication.
+- Develop the ability to critically analyze films beyond surface level viewing, focusing on narrative, visuals, performance, and intent.
+- Learn how to frame and express constructive criticism with clarity, balance, and context.
+- Strengthen creative thinking and storytelling skills applicable to filmmaking, writing, content creation, and media work.
+- Gain real world exposure to film journalism, criticism, and editorial practices through industry insights.
   
 
 
@@ -33,7 +29,7 @@ Sudhir Srinivasan is an entertainment editor, writer, film critic, interviewer, 
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 09-01-2026  | 09:30 AM  | 3.5 hours  | TBD    |
+| 09-01-2026  | 09:30 AM - 12:30 PM | 3. Hours  | TBD    |
 
 ## Organized By
 Club : Team Media
