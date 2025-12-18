@@ -1,6 +1,6 @@
 
 ## Film Insights- Masterclass with Sudhir Srinivasan
-**Film Insights – Masterclass with Sudhir Srinivasan** is an engaging workshop designed to offer students an insider’s perspective on cinema, film criticism, and storytelling. Led by acclaimed entertainment editor and film critic Sudhir Srinivasan, the session enhances film analysis, creative thinking, and critical appreciation while exposing participants to industry trends and professional practices. Through interactive discussion and expert insights, the workshop inspires informed career exploration and strengthens communication and questioning skills.
+Join us for an engaging workshop designed to offer students an insider’s perspective on cinema, film criticism, and storytelling. Led by acclaimed entertainment editor and film critic Sudhir Srinivasan, the session enhances film analysis, creative thinking, and critical appreciation while exposing participants to industry trends and professional practices. Through interactive discussion and expert insights, the workshop inspires informed career exploration and strengthens communication and questioning skills.
 
 
 ## Speaker
