@@ -4,8 +4,9 @@ Step into the world of professional photography and videography with hands-on ac
 ## Speaker
 
 - **Mr. Soundarajan**
-- **Company: Sony India Pvt. Ltd**
-  
+
+   Company: Sony India Pvt. Ltd  
+
 Mr. Soundarrajan S is a Digital Imaging Specialist at Sony India Pvt. Ltd., Coimbatore. He has extensive experience in professional photography and videography solutions and has conducted multiple hands-on workshops across institutions, including previous editions of ANOKHA. His sessions focus on practical camera handling, lenses, lighting techniques, and real-world shooting workflows.
 
 ## Objectives
