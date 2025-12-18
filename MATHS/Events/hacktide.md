@@ -1,6 +1,6 @@
 # HACKTIDE
 
-HACKTIDE is a 24-hour offline hackathon bringing together students from multiple institutions to build innovative, functional prototypes for real-world problem statements. The event focuses on creativity, rapid prototyping, and teamwork through continuous development, reviews, and final presentations.
+HACKTIDE is a 24-hour offline hackathon designed to bring together students from various institutions to develop innovative, practical solutions for real-world problem statements. The event encourages creativity, rapid prototyping, and teamwork through continuous development and multiple evaluation rounds.
 
 ## Event Schedule
 
