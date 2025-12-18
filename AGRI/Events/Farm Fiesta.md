@@ -5,7 +5,7 @@ A four-level challenge that puts your teamwork and nature knowledge to the test.
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| 07-01-2026 | 10:00 AM | Amrita Vishwa Vidyapeetham | 6 Hours |
+| 07-01-2026 | 10:00 AM - 4:00 PM | Amrita Vishwa Vidyapeetham | 6 Hours |
 
 ## Rules and Regulations
 
