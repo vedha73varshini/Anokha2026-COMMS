@@ -23,11 +23,11 @@ Kamal focuses on GenAI and data-driven problem-solving. He draws on his industry
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 18-10-2026  | 09:30 am  | 4 hours  | Amrita Vishwa Vidyapeetham    |
+| 18-10-2026  | 09:30 am - 1:00 pm | 4 hours  | Amrita Vishwa Vidyapeetham    |
 
 ## Organized By
 
-Department: Artificial Intelligence Engineering
+Department: School of Artificial Intelligence 
 
 ## For any queries, contact:
 
