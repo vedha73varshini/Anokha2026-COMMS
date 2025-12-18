@@ -1,7 +1,6 @@
 # Mobile Photography Competition
 
-
-The event aims to encourage creativity, visual storytelling, and mobile photography skills. It will follow a spot photography format, where the theme will be announced on the spot and participants must capture photographs within the allotted time. 
+No filters, no second chances. When the theme drops, the clock starts, and your mobile camera becomes the only tool to capture a moment that stands out.
 
 ## Event Schedule
 
