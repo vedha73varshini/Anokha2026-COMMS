@@ -8,7 +8,7 @@ Build your custom wireless bot, conquer the precision Task Race, then dominate i
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| 08-01-2026 | 09:00 AM | TBD | 4 Hours |
+| 08-01-2026 | 09:00 AM - 02:00 PM | TBD | 4 Hours |
 
 
 
