@@ -29,6 +29,6 @@ Club: Astra
 ## For any queries, contact:
 
 - Samala Phani Chandra- 9959501235
-- Angel - 7025761542
+- Angel P Geego - 7025761542
 
 
