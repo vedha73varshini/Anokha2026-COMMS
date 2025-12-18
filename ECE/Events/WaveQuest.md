@@ -2,11 +2,15 @@
 
 Decode the challenge in this intense two-round electronics quiz! Survive the screening round, then battle in the high-pressure Buzzer Finale. From waveform analysis to real-world signal scenarios, prove your signal processing expertise with speed and precision. No devices. No help. Just pure knowledge and quick reflexes. Can you read the signals and claim victory?
 
+## Prize Money
+- First Prize - Rs. 3000/-
+- Second Prize - Rs. 1500/-
+
 ## Event Schedule
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| 07-01-2026 | 09:00 AM | TBD | 3 Hours |
+| 07-01-2026 | 09:00 AM - 12:00 PM | TBD | 3 Hours |
 
 
 
@@ -23,6 +27,7 @@ Decode the challenge in this intense two-round electronics quiz! Survive the scr
 ## Organized By
 
 Department: Electronics and Communication Engineering
+
 ## For any queries contact:
 
 - Sanjay- 7904750747
