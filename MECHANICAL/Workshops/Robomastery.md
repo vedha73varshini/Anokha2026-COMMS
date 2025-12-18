@@ -31,11 +31,12 @@ Learn fundamentals of robotics, including its evolution, core automation princip
 
 ## Organized By
 
-Department od Mechanical Engineering
+Department of Mechanical Engineering
 
 ## For any queries, contact:
 
 - Naavin D -8870566532
 - Sai Srija- 7975239415
+
 
 
