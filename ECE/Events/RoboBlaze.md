@@ -1,4 +1,4 @@
-# RoboBlaze
+# RoboBlaze - A Smooth Operator Showdown 
 
 Build your custom wireless bot, conquer the precision Task Race, then dominate in Capture the Flag! Navigate tight tracks, deploy smart strategies, and outmaneuver rivals in this ultimate test of engineering and control. 30×30×30 cm of pure competition—are you ready to battle?
 
