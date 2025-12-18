@@ -26,6 +26,7 @@ Department: School of Physical Sciences
 
 ## For any queries contact:
 
-- Harinarayanan:  +91 85479 32030
-- Sahana:  +91 80562 91844
+- Adhithya: 7010870537
+- Anuvinda: 9562950363
+- Sahana: 80562 91844
 
