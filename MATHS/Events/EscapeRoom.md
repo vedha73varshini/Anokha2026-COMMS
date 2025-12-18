@@ -10,11 +10,20 @@ An immersive Victorian-horror themed escape room where teams role-play character
 
 ## Rules and Regulations
 
-- A team must consist of 4 members.
-- Teams must not damage props, furniture, or venue property; any willful damage will lead to disqualification and penalty.  
-- Teams are prohibited from sharing puzzle solutions or clues with other teams; malpractice leads to disqualification.
-- Use of mobile phones or external devices for hints inside the room may be restricted or monitored as per coordinator instructions.  
-- Teams must exit immediately when their time slot ends, irrespective of puzzle completion status.  
+- A team must consist of exactly 4 members.
+- A maximum of 40+ teams will be allowed to participate across the event days.
+- All teams must complete registration and payment to confirm participation.
+- Each team will be allotted a fixed time slot for the escape room challenge.
+- Teams must report on time for their assigned slot; late arrival may lead to disqualification.
+- The objective is to escape the room by solving all puzzles within the given time limit.
+- Teams must solve puzzles by decoding riddles, symbols, and physical clues provided inside the room.
+- Mobile phones, smartwatches, or external electronic devices are not allowed inside the escape room.
+- Participants must not damage, force open, or tamper with locks, props, or room elements.
+- External assistance, communication with other teams, or revealing clues is strictly prohibited.
+- Hints may be provided only at the discretion of the game master.
+- The team that successfully escapes the room in the least amount of time will be declared the winner.
+- If multiple teams fail to escape, rankings will be decided based on maximum progress achieved and time taken.
+- Any violation of rules or unsafe behavior will result in immediate disqualification. 
 
 ## Organized By
 
