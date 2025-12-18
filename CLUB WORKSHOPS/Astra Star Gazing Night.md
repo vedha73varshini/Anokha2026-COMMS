@@ -20,7 +20,7 @@ Join us for a celestial adventure where we turn "just stars" into stories. Guide
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| xx-01-2026  | 7:00 PM - 10:00 PM  | 3 hours  | Amrita Vishwa Vidyapeetham    |
+| 07-01-2026  | 7:00 PM - 10:00 PM  | 3 hours  | Amrita Vishwa Vidyapeetham    |
 
 ## Organized By
 
