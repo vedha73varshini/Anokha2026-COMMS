@@ -15,7 +15,7 @@ Energy Analyst at Centre for Energy Environment and Productivity , Coimbatore, T
 - Highlight how integrating AI/ML with conventional systems can enable predictive insights, anomaly detection, real-time optimisation, and intelligent decision-making, ultimately reducing operational costs and enhancing sustainability in industrial environments.
   
 ## Outcomes
-- Clearly understand the basic ideas behind energy managemen.
+- Clearly understand the basic ideas behind energy conservation and management.
 - Be able to spot where energy is being wasted and estimate how big the losses are.
 - Learn how AI/ML can make energy saving easier by helping predict problems and suggest smarter decisions.
 - Get familiar with important ISO standards and common industrial practices.
