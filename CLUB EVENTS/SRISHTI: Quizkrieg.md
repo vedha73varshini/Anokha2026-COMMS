@@ -7,7 +7,7 @@ Join us for a celebration of curiosity where quizzing goes beyond facts into sha
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- | 
-| 09-01-2026 | 09:00 AM | TBD | 4.5 Hours |
+| 09-01-2026 | 09:00 AM - 1:30 PM| TBD | 4.5 Hours |
 
 
 ## Rules and Regulations
