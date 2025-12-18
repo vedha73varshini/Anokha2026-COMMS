@@ -22,7 +22,7 @@ granted patents, and a Ph.D. in Materials Science from IISc Bangalore.
   
 ## Outcomes
 - Instill a sense of purpose and positive societal contribution among participants by emphasizing ethical practices and social responsibility
-  
+- Enhance participants’ understanding of innovation, intellectual property, and technology leadership through real world industry perspectives.
 
 
 ## Event Schedule
@@ -39,4 +39,5 @@ Club: ELITE club
 ## For any queries, contact:
 
 - Anish Visakan -98948 40983
+
 
