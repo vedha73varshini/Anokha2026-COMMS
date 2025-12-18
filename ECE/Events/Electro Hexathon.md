@@ -13,7 +13,7 @@ A high-intensity offline circuit challenge where teams race against time to desi
 
 - A Team-based event with maximum 4 members per team; only qualified teams advance to further rounds.
 - All rounds are offline; tiebreakers will be conducted in Rounds 1 & 2 if required.
-- Final-round simulation output must closely match the target result.
+- Final-round simulation and hardware must closely match the target result.
 - Unauthorized circuit topology changes, malpractice, or external help lead to disqualification.
 - Only regular students with valid ID cards are eligible.
 - Final round simulations must be done on LTSpice / CEDAR / Proteus systems; internet use is prohibited unless permitted.
