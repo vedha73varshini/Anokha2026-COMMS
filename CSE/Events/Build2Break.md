@@ -8,14 +8,14 @@ DESCRIPTION (Short and crispt - 2-3 sentences)
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| DD-MM-2026 | XX:XX AM/PM | if venue not mentioned, put ------> Amrita Vishwa Vidyapeetham | X Hours |
+| 08-01-2026 | 11:00 AM/PM | Amrita Vishwa Vidyapeetham | 24 Hours |
 
 ## Rules and Regulations
 
-- A team must consist of 3 members.
-- Teams are prohibited from photographing or sharing clues or answers with other teams. Any team caught sharing clues or engaging in any form of malpractice will be immediately disqualified.
-- Teams are allowed to use the internet to assist in solving the puzzles.
-- All answers must be shown to the designated coordinators or volunteers for verification. Only after verification will teams receive the next puzzle and the location of the hidden clue.
+- Students must register in teams of 2-4 members to participate.
+- Only use data and resources that teams are permitted to use; do not include unauthorized or private data.
+-	Offensive or inappropriate content is prohibited in systems, datasets, and demonstrations.
+-	Violations may result in disqualification and further action by organizers.
 
 
 ## Organized By
@@ -24,5 +24,3 @@ Department: Computer Science and Engineering
 
 ## For any queries contact:
 
-- Name : +91 94983 35950
-- Name : +91 6385 786 788
