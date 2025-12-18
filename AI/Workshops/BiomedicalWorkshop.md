@@ -28,7 +28,7 @@ Dr. Ashmi’s expertise spans biomechanics, rehabilitation engineering, and assi
 
 ## Organized By
 
-Department: Artificial Intelligence Engineering
+Department: School of Artificial Intelligence 
 
 ## For any queries, contact:
 
