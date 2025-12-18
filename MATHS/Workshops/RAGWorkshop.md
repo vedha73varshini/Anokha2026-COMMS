@@ -1,5 +1,5 @@
 # Build the Brain: RAG + Agentic AI That Thinks for You
-This two-day, hands-on workshop focuses on building real-world GenAI applications using Retrieval-Augmented Generation (RAG), LoRA/QLoRA-based fine-tuning, and multi-agent AI systems. Participants will design end-to-end RAG pipelines, automate workflows with coordinated agents, and explore scalable, industry-aligned AI practices.[1]
+This two-day, hands-on workshop focuses on building real-world GenAI applications using Retrieval-Augmented Generation (RAG), LoRA/QLoRA-based fine-tuning, and multi-agent AI systems. Participants will design end-to-end RAG pipelines, automate workflows with coordinated agents, and explore scalable, industry-aligned AI practices.
 
 ## Speaker
 
@@ -27,8 +27,8 @@ This two-day, hands-on workshop focuses on building real-world GenAI application
 
 | Date       | Time       | Duration | Venue        |
 | ---------- | ---------- | -------- | ------------ |
-| 07-01-2026 | 10:00 am   | 3 hours  | TBD          |
-| 08-01-2026 | 10:00 am   | 3 hours  | TBD          |
+| 07-01-2026 | 10:00 am - 01:00 pm  | 3 hours  | TBD          |
+| 08-01-2026 | 10:00 am - 01:00 pm  | 3 hours  | TBD          |
 
 ## Organized By
 
