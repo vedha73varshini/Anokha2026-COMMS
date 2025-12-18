@@ -6,7 +6,7 @@ Ever wanted to run your own IPL franchise? Grab three friends and step into the 
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| 08-01-2026 | 08:30 AM | Amrita Vishwa Vidyapeetham | 8 Hours |
+| 08-01-2026 | 08:30 AM - 04:30 PM | Amrita Vishwa Vidyapeetham | 8 Hours |
 
 ## Rules and Regulations
 
