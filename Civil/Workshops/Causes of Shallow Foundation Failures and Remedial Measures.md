@@ -1,8 +1,7 @@
 
 ## Causes of Shallow Foundation Failures and Remedial Measures
 
-This workshop takes a look at why shallow foundations fail and how engineers fix these issues on real job sites. You’ll move beyond textbook formulas to explore practical examples and modern geotechnical solutions used in the field today. It’s a great way to see how engineering theory works in practice and gain a better understanding of what keeps structures standing.
-
+Gain practical understanding of why shallow foundations fail and how engineers address these challenges on real job sites. Moving beyond textbook formulas, the session explores real world case studies and modern geotechnical solutions used in current practice, helping participants see how engineering theory translates into structures that stand strong.
 ## Speaker
 
 - **Name**: Dr. A. Boominathan
@@ -24,7 +23,7 @@ To help participants understand why shallow foundations fail, how to identify wa
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 07-01-2026  | 02:00 pm  | 2 hours  | Amrita Vishwa Vidyapeetham    |
+| 07-01-2026  | 02:00 PM - 04:00 PM  | 2 hours  | Amrita Vishwa Vidyapeetham    |
 
 ## Organized By
 
