@@ -7,7 +7,7 @@ Embark on a fast-paced, campus-wide scavenger hunt where every clue pushes your 
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| 07-01-2026 | 09:30 AM | TBD | 2 Hours |
+| 07-01-2026 | 09:30 AM - 11:30 AM | TBD | 2 Hours |
 
 ## Rules and Regulations
 
@@ -22,7 +22,7 @@ Embark on a fast-paced, campus-wide scavenger hunt where every clue pushes your 
 
 ## Organized By
 
-Department: Computer Science and Engineering (Specialization in Cybersecurity)
+Department: Department of Cybersecurity
 
 ## For any queries contact:
 
