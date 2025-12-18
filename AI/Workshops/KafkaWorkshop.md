@@ -34,7 +34,7 @@ LinkedIn: https://www.linkedin.com/in/nivethsaran/?originalSubdomain=in
 | 09-01-2026  | 09:30 am - 4:30 pm | TBD   |
 
 ## Organized By
-Department: Artificial Intelligence Engineering
+Department: School of Artificial Intelligence 
 
 ## For any queries, contact:
 - Anirudh - 9544370049
