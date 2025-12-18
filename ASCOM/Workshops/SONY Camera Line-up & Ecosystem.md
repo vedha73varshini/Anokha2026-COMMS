@@ -1,6 +1,5 @@
 # SONY Camera Line-up & Ecosystem
-Step into the world of professional photography and videography with hands-on access to Sony’s APS-C and full-frame camera ecosystem.
-Learn real shooting workflows, lenses, lighting, and camera handling directly from an industry expert at Sony India.
+Step into the world of professional photography and videography with hands-on access to Sony’s APS-C and full-frame camera ecosystem. Learn real-world shooting workflows, lenses, lighting techniques, and camera handling directly from an industry expert at Sony India.
 
 ## Speaker
 
@@ -13,22 +12,17 @@ Mr. Soundarrajan S is a Digital Imaging Specialist at Sony India Pvt. Ltd., Coim
 
 To provide students with industry-level exposure to professional photography and videography using Sony’s APS-C and full-frame camera ecosystem, and to bridge the gap between theory and hands-on practice.
 
-
   
 ## Outcomes
 
 Participants will gain hands-on experience with professional Sony camera systems, improve technical understanding of photography and videography workflows, and interact directly with industry experts.
 
 
-## Registration Fee
-
-Rs. 500/- per head
-
 ## Event Schedule
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 08-01-2026  | 09:00 AM  | 8 hours  | TBD |
+| 08-01-2026  | 09:00 AM - 05:00 PM  | 8 hours  | TBD |
 
 
 ## Organized By
