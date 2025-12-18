@@ -1,5 +1,6 @@
-# Name of the Event
+# Build2Break
 
+Dive into the ultimate software engineering challenge at Build2Break, where teams design and deploy robust systems before switching roles to stress-test and exploit vulnerabilities in competitors' creations. Experience the complete software lifecycle through this intense three-stage competition that combines development excellence with adversarial testing, pushing your technical skills and strategic thinking to the limit.
 
 DESCRIPTION (Short and crispt - 2-3 sentences)
 
