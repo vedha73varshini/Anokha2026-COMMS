@@ -7,7 +7,7 @@ Writers create compelling fictional personalities; debaters interrogate, defend,
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- | 
-| 08-01-2026 | 10:00 AM | TBD | 2 Hours |
+| 08-01-2026 | 10:00 AM - 12:00 PM| TBD | 2 Hours |
 
 
 
