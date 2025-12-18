@@ -4,8 +4,9 @@ A fun, interactive, and beginner-friendly workshop where participants learn the 
 
 ## Speaker
 
-- **Name**: Rameshkumar Kalimuthu
-- **Company**: Trendsetters Infoservices (Part of ARK), Bangalore
+- **Name: Rameshkumar Kalimuthu**
+
+  Company: Trendsetters Infoservices (Part of ARK), Bangalore
 
 ## Objectives
 - Teach the basics of game design: characters, movement, collision, scoring, and UI.
@@ -22,7 +23,7 @@ A fun, interactive, and beginner-friendly workshop where participants learn the 
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 07-01-2026  | 10:00 am  | 6 hours  | Amrita Vishwa Vidyapeetham    |
+| 07-01-2026  | 10:00 AM - 04:00 PM | 6 hours  | Amrita Vishwa Vidyapeetham    |
 
 ## Organized By
 
