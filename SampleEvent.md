@@ -4,11 +4,10 @@
 DESCRIPTION (Short and crispt - 2-3 sentences)
 
 
-## Event Schedule
-
-| Date       | Time     | Reporting Venue    | Duration |
-| ---------- | -------- | ------------------ | -------- |
-| DD-MM-2026 | XX:XX AM/PM | if venue not mentioned, put ------> Amrita Vishwa Vidyapeetham | X Hours |
+## Prize Money
+- First Prize - Rs. XXX/-
+- Second Prize - Rs. XXX/-
+- Third Prize - Rs. XXX/- 
 
 ## Rules and Regulations
 
@@ -17,10 +16,6 @@ DESCRIPTION (Short and crispt - 2-3 sentences)
 - Teams are allowed to use the internet to assist in solving the puzzles.
 - All answers must be shown to the designated coordinators or volunteers for verification. Only after verification will teams receive the next puzzle and the location of the hidden clue.
 
-
-## Organized By
-
-Department: Computer Science and Engineering
 
 ## For any queries contact:
 
