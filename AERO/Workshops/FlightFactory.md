@@ -1,6 +1,7 @@
 
 ## Flight Factory
-Join us for a two day hands on learning experience for students who want to build, not just listen. Explore aerodynamics, 3D design, fabrication, and piloting while creating a fixed wing RC aircraft step by step. It is your chance to design, build, and fly a fully functional RC plane from scratch.
+
+Join us for a two day hands on learning experience for students who want to build, not just listen. Explore aerodynamics, aeromodelling, 3D design, fabrication, and piloting while creating a fixed wing RC aircraft step by step. It is your chance to design, build, and fly a fully functional RC plane from scratch.
 
 
 ## Speaker
@@ -10,7 +11,7 @@ Join us for a two day hands on learning experience for students who want to buil
 - **Company: AEROGO BANGLORE**
 
 ## Objectives
-- To provide students with hands-on practical knowledge in aeromodelling and RC aircraft 
+- To provide students with hands-on practical knowledge (Fixed wing kits will be provided) in aeromodelling and RC aircraft 
 technology
 - Enabling students to design, fabricate, and pilot a fixed-wing RC aircraft
   
@@ -39,6 +40,7 @@ Department: Aerospace Engineering
 - Sanjay Pradnesh G: 9014852227, 
 - Pasupatheshwar T: 9443222851, 
 - Rishikesh S: 9345284596, 
+
 
 
 
