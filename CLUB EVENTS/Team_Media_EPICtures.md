@@ -10,7 +10,7 @@ EPICtures 2026, The Short Film Festival of ANOKHA 2026-The 13th Annual National 
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| 09-01-2026 | 12:30 PM |TBD | 4.5 Hours |
+| 09-01-2026 | 1:30 PM - 4:30 PM |TBD | 3 Hours |
 
 ## Rules and Regulations
 
