@@ -12,8 +12,10 @@ Join us for a celebration of curiosity where quizzing goes beyond facts into sha
 
 ## Rules and Regulations
 
-- Wide-ranging questions across current affairs, history, sports, science, entertainment, literature, and more
-
+- The quiz will contain wide-ranging questions across current affairs, history, sports, science, entertainment, literature, and more.
+- Initially, a preliminary written round will be conducted, and top 8 teams will qualify for finals.
+- Finals will contain a mixture of several rounds (such as pounce-and-bounce, written, etc).
+- DESCISION OF QUIZMASTER IS FINAL.
 
 ## Organized By
 
