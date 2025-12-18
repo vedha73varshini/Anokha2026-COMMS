@@ -1,4 +1,4 @@
-## Unveiling Alien Atmospheres with JWST: A Hands-On Exoplanet Workshop 
+## Unveiling Alien Atmospheres with JWST
 
 Unlock the secrets of distant worlds with this high-energy, hands-on workshop powered by real JWST exoplanet data! You'll analyse alien atmospheres, run powerful Python tools, and watch features like water vapour and clouds reveal themselves in live-generated spectra. With guided access to PetitRADTRANS, you'll experience how real researchers decode planets light-years away.
 
@@ -24,7 +24,7 @@ Dr. Vigneshwaran Krishnamurthy is a postdoctoral researcher at McGill University
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| xx-01-2026  | 09:00 am  | 4 hours  | Amrita Vishwa Vidyapeetham  |
+| 07-01-2026  | 9:00 AM - 1:00 PM  | 4 hours  | Amrita Vishwa Vidyapeetham  |
 
 ## Organized By
 
