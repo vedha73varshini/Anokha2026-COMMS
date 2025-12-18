@@ -31,7 +31,7 @@ Build intelligent vision systems on compact embedded platforms! Learn camera int
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 07-01-2026  | 09:00 AM  | 8 hours  | TBD |
+| 07-01-2026  | 09:00 AM - 05:00 PM | 8 hours  | TBD |
 
 
 
