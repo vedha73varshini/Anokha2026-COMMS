@@ -8,7 +8,7 @@ DESCRIPTION (Short and crispt - 2-3 sentences)
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| 08-01-2026 | 11:00 AM/PM | Amrita Vishwa Vidyapeetham | 24 Hours |
+| 08-01-2026 | 11:00 AM | Amrita Vishwa Vidyapeetham | 24 Hours |
 
 ## Rules and Regulations
 
