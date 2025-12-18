@@ -6,7 +6,7 @@ A dramatic life-or-death scenario: a ship is sinking, and there is only one life
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| 07-01-2026 | 10:00 AM | Amrita Vishwa Vidyapeetham | 3 Hours |
+| 07-01-2026 | 10:00 AM - 1:00 PM | Amrita Vishwa Vidyapeetham | 3 Hours |
 
 ## Rules and Regulations
 
