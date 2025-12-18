@@ -6,7 +6,7 @@ Speed meets endurance on a challenging multi-terrain track! Navigate ramps, brid
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| 07-01-2026 | 09:00 AM | TBD | 7 Hours |
+| 07-01-2026 | 09:00 AM - 4:00 PM | TBD | 7 Hours |
 
 
 ## Rules and Regulations
@@ -22,7 +22,7 @@ Speed meets endurance on a challenging multi-terrain track! Navigate ramps, brid
 
 ## Organized By
 
-Department: Mechanical Engineering
+Department of Mechanical Engineering
 
 ## For any queries contact:
 
