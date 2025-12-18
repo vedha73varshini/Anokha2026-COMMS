@@ -4,12 +4,11 @@
 DESCRIPTION (Short and crispt - 2-3 sentences)
 
 
-## Prize Money*
+## Prize Money
 - First Prize - Rs. XXX/-
 - Second Prize - Rs. XXX/-
 - Third Prize - Rs. XXX/-
 
-_* Subject to change_
 
 ## Rules and Regulations
 
