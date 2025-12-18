@@ -10,11 +10,16 @@ HACKTIDE is a 24-hour offline hackathon designed to bring together students from
 
 ## Rules and Regulations
 
-- A team must consist of 2–3 members.
-- All teams must submit idea PPTs in Phase 1 through the designated portal based on provided problem statements.
-- Only shortlisted teams after review rounds may continue to subsequent phases; judges’ decisions are final.
-- Teams must work on their allocated problem statements and are prohibited from copying existing solutions or using pre-built projects.  
-- All prototypes and code developed during the event must be original and created within the hackathon duration, except for allowed open-source libraries with proper attribution.  
+- A team must consist of 2–3 members only.
+- 8 open-domain problem statements will be provided on the spot at the beginning of the event.
+- Each team must select only one problem statement and work exclusively on it throughout the hackathon.
+- Teams will be shortlisted in all scheduled review rounds during the 24-hour hackathon.
+- From the shortlisted teams, 40 teams will be selected for the final presentation round.
+- All development and prototyping must be carried out within the 24-hour hackathon duration.
+- The final submission must be a functional prototype demonstrating the proposed solution.
+- Evaluation will be based on originality, feasibility, innovation, technical execution, usability, scalability, and overall impact.
+- Judges’ decisions are final and binding at all stages of the event.
+- Participants must follow all instructions given by the organizing committee during the event. 
 
 ## Organized By
 
