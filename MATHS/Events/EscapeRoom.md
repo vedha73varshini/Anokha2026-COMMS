@@ -6,7 +6,7 @@ An immersive Victorian-horror themed escape room where teams role-play character
 
 | Date                     | Time               | Reporting Venue | 
 | ------------------------ | ------------------ | --------------- | 
-| 07-01-2026 to 08-01-2026 | 09:00 AM – 05:00 PM |TBD             | 
+| 07-01-2026 to 09-01-2026 | 09:00 AM – 05:00 PM |TBD             | 
 
 ## Rules and Regulations
 
