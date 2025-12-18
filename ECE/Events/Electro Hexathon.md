@@ -6,7 +6,7 @@ A high-intensity offline circuit challenge where teams race against time to desi
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| 07-01-2026 | 09:00 AM | TBD | 7 Hours |
+| 07-01-2026 | 09:00 AM - 04:00 PM| TBD | 7 Hours |
 
 
 ## Rules and Regulations
@@ -20,6 +20,7 @@ A high-intensity offline circuit challenge where teams race against time to desi
 - Rounds must be completed within the given time.
 - Dress code & safety rules are mandatory (tucked shirts, tied hair, no loose accessories, closed rubber-soled shoes).
 - Judges’ and coordinators’ decisions are final.
+
 
 ## Organized By
 
