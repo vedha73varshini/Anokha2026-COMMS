@@ -25,16 +25,17 @@ Explore and build a strong foundation in setting design goals, applying constrai
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 07-01-2026  | 09:00 AM | 7 hours | TBD  |
+| 07-01-2026  | 09:00 AM - 4:00 PM | 7 hours | TBD  |
 
 
 ## Organized By
 
-Department: Mechanical Engineering
+Department of Mechanical Engineering
 
 ## For any queries, contact:
 
 - Naavin D -8870566532
 - Sai Srija- 7975239415
+
 
 
