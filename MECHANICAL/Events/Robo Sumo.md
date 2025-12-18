@@ -6,7 +6,7 @@ Enter the ring where strategy meets raw power! In this circular arena battle, yo
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| 09-01-2026 | 09:00 AM | TBD | 7 Hours |
+| 09-01-2026 | 09:00 AM - 4:00 PM| TBD | 7 Hours |
 
 
 
@@ -29,7 +29,7 @@ Enter the ring where strategy meets raw power! In this circular arena battle, yo
   
 ## Organized By
 
-Department: Mechanical Engineering
+Department of Mechanical Engineering
 
 ## For any queries contact:
 
