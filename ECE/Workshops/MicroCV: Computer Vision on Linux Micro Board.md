@@ -13,7 +13,7 @@ Build intelligent vision systems on compact embedded platforms! Learn camera int
 - To introduce the fundamentals of computer vision on embedded Linux platforms.
 - To familiarize participants with camera integration and efficient image/video capture pipelines.
 - To demonstrate how to deploy lightweight AI/CV models optimized for low-power devices.
-- To provide hands-on experience in building and running real-time vision applications.
+- To provide hands-on experience in building and running real-time vision applications with LuckFox Pico Pro / Max RV1106 Linux Micro dev board and SC3336camera module that can be taken away at the end of the event.
 - To teach best practices for performance tuning and resource optimization on micro boards.
 - To empower participants to design, test, and deploy their own embedded CV solutions.
 
