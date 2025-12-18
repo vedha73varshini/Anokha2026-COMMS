@@ -29,7 +29,7 @@ granted patents, and a Ph.D. in Materials Science from IISc Bangalore.
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 07-01-2026  | 09:00 AM - 1:00 PM| 4 ours | TBD|
+| 07-01-2026  | 09:00 AM - 1:00 PM| 4 Hours | TBD|
 
 
 ## Organized By
@@ -39,6 +39,7 @@ Club: ELITE club
 ## For any queries, contact:
 
 - Anish Visakan -98948 40983
+
 
 
 
