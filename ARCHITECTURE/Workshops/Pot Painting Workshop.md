@@ -2,6 +2,7 @@
 
 ## Pot Painting Workshop
 
+To develop students’ artistic skills, inspire creativity, and promote hands-on engagement with visual art through practical exploration and expression.
 
 ## Speaker
 
@@ -19,15 +20,11 @@ Artist Kannan is a faculty member at the Amrita School of Architecture with over
 - Completion of a unique, hand painted pot as a tangible outcome
   
 
-## Registration Fee
-
-Rs. 600/- per head
-
 ## Event Schedule
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| 07-01-2026  | 10:00 AM  | 4 hours  | TBD |
+| 08-01-2026  | 10:00 AM - 02:00 PM  | 4 hours  | TBD |
 
 
 ## Organized By
