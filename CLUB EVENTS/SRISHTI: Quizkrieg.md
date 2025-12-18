@@ -1,7 +1,7 @@
 
 # Never Gonna Quiz You Up
 
-Quizzing celebrates inquisitiveness, creative thinking, and bold risk-taking beyond mere facts. Quizkrieg showcases our college's vibrant quizzing culture at Anokha 2026, connecting passionate quizzers across South India while demonstrating our prowess in Tamil Nadu's quizzing circuit—a platform where knowledge meets community.
+Join us for a celebration of curiosity where quizzing goes beyond facts into sharp thinking, bold risks, and fresh perspectives. Capture the spirit of a vibrant quizzing culture, creating a space to connect, compete, and engage with ideas driven by the pursuit of knowledge.
 
 ## Event Schedule
 
@@ -13,7 +13,7 @@ Quizzing celebrates inquisitiveness, creative thinking, and bold risk-taking bey
 ## Rules and Regulations
 
 - Wide-ranging questions across current affairs, history, sports, science, entertainment, literature, and more
-- Format: Follows the successful first edition's pattern with diverse, interdisciplinary challenges
+
 
 ## Organized By
 
