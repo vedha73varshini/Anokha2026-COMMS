@@ -1,12 +1,12 @@
 # CAD Clash: The Drafting Duel of Precision
 
-In CAD Clash, you’ll take on the role of a pro architect to see how you handle the pressure of a real design brief. Starting with just a rough sketch, you’ll race the clock to turn dimensions and requirements into precise AutoCAD plans. It’s the ultimate test of your technical speed and accuracy—so grab your mouse, showcase your drafting skills, and compete for cash prizes.
+Step into the role of a professional architect and experience the pressure of a real design brief. Starting from a rough sketch, participants race against the clock to convert given dimensions and requirements into accurate AutoCAD plans. This challenge tests technical speed, precision, and drafting expertise, giving you the chance to prove your skills and compete for exciting cash prizes.
 
 ## Event Schedule
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| 08-01-2026 | 02:00 PM | Amrita Vishwa Vidyapeetham | 2 Hours |
+| 08-01-2026 | 02:00 PM - 04:00 PM | Amrita Vishwa Vidyapeetham | 2 Hours |
 
 ## Rules and Regulations
 
