@@ -11,7 +11,10 @@ professional bodies, with multiple prestigious awards for his research
 
 
 ## Objectives
-To help participants understand why shallow foundations fail, how to identify warning signs, and what engineering solutions can prevent or mitigate suchFailures.
+- To help participants understand why shallow foundations fail, how to identify warning signs, and what engineering solutions can prevent or mitigate such failures.
+- To familiarize participants with current codes, best practices, and decision making approaches used in foundation design and remediation.
+- To enhance analytical thinking by evaluating foundation failures and selecting appropriate remedial measures for different site conditions.
+
   
 ## Outcomes
 - A clear understanding of why shallow foundations fail.
