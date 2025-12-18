@@ -6,7 +6,7 @@ In Smart City War Room, teams of three face off to design a sustainable city of 
 
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
-| 08-01-2026 | 09:00 AM | Amrita Vishwa Vidyapeetham | 3 Hours |
+| 08-01-2026 | 09:00 AM - 12:00 PM | Amrita Vishwa Vidyapeetham | 3 Hours |
 
 ## Rules and Regulations
 
