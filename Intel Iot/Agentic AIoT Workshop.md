@@ -1,6 +1,6 @@
 ## Agentic AIoT Workshop
 
-n this workshop, we move beyond "smart" gadgets that just follow orders to build Agentic AIoT—systems where devices actually think for themselves. You’ll learn how to give hardware a digital "brain," teaching software agents to reason, make decisions, and take real-world action. By bridging the gap between intelligent code and physical sensors, you'll walk away knowing how to turn a simple device into a truly autonomous teammate capable of solving problems on its own.
+Move beyond command driven smart devices and step into Agentic AIoT, where hardware can think, decide, and act on its own. Learn how to give devices a digital brain that connects intelligent code with real world sensors, turning simple hardware into autonomous systems that solve problems independently.
 
 ## Speaker
 
@@ -25,12 +25,12 @@ Mr. Mohan V is an alumnus of Amrita Vishwa Vidyapeetham, Coimbatore. He has a st
 
 | Date | Time | Duration | Venue |
 | ---- | ---- | -------- | ----- |
-| xx-01-2026  | xx:xx am  | x hours  | Amrita Vishwa Vidyapeetham  |
+| 09-01-2026  | 9:00 AM - 1:00 PM  | 4 hours  | Amrita Vishwa Vidyapeetham  |
 
 ## Organized By
 
 Club: Intel Iot
 
 ## For any queries, contact:
-
+- Sreeaswin R - 95855 85566
 
