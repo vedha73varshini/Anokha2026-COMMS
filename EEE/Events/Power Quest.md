@@ -23,4 +23,4 @@ Department: Electrical and Electrical Engineering
 ## For any queries contact:
 
 - Yadunandan : 7397607462
-- Patnana Tarun : 9653930719
+- Patnana Tarun : 9652930719
