@@ -23,7 +23,8 @@ Writers create compelling fictional personalities; debaters interrogate, defend,
 - Conduct: No pre-Phase 2 collaboration
   - Respect time limits
   - Professional behavior required during cross-examination
-- Authority: Judges' decisions are final and binding
+- Authority: Judges' decisions are final and binding<br>
+Note: Participants are expected to be active on Whatsapp for further updates.
 
 ## Organized By
 
