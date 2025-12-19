@@ -15,7 +15,7 @@ A deep dive into a three-day hackathon where participants will be challenged wit
 
 ## Rules and Regulations
 
-- A team must consist of 3-5 members.
+- A team must consist of 3 members.
 - Teams that plagiarize code/content will be disqualified.
 - Abstract submission by Day 1 before 5 PM is mandatory.
 - Open-source algorithms are not allowed for PS1 and PS3. Open-source datasets may be used for PS3, but models/algorithms must be original.
@@ -30,6 +30,7 @@ Department: Aerospace Engineering
 
 - Sreedaran M: +91 9442472075
 - Ram Venkat Nesan: +91 9944860878
+
 
 
 
