@@ -8,8 +8,8 @@ A deep dive into a three-day hackathon where participants will be challenged wit
 | Date       | Time     | Reporting Venue    | Duration |
 | ---------- | -------- | ------------------ | -------- |
 | 07-01-2026 | 09:00 AM - 05:00 PM | TBD | 8 Hours |
-| 08-01-2026 | 09:00 AM - 06:00 PM | TBD | 9 Hours |
-| 09-01-2026 | 09:00 AM - 03:00 PM | TBD | 6 Hours |
+| 08-01-2026 | 09:00 AM - 05:00 PM | TBD | 8 Hours |
+| 09-01-2026 | 09:00 AM - 05:00 PM | TBD | 8 Hours |
 
 
 
@@ -30,6 +30,7 @@ Department: Aerospace Engineering
 
 - Sreedaran M: +91 9442472075
 - Ram Venkat Nesan: +91 9944860878
+
 
 
 
