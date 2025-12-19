@@ -13,7 +13,7 @@ This debate event offers students a platform to engage with contemporary scienti
 ## Rules and Regulations
 
 - Participation is team-based with 4 members per team.
-- Each debate will have a maximum duration of 1 hour.
+- One day will have 4 debate sessions with each session lasting for a maximum duration of 1 hour.
 - Teams must follow the prescribed debate format.
 - Surprise topics will be revealed only at the start of the session.
 - Participants must maintain respectful and professional conduct.
