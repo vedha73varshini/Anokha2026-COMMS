@@ -10,11 +10,11 @@ segment where participants can engage directly with industry leaders and gain va
 
 ## Speaker
 
-- **Dr. Shankar Venugopal**
-- **Company: Mahindra & Mahindra**
-- Dr. Shankar Venugopal is a Vice President at Mahindra & Mahindra, where he leads
-Technology Innovation, Intellectual Property, Knowledge Management, and serves as Dean of the Mahindra Technical Academy. He is a prolific inventor with over 30 international and Indian
-granted patents, and a Ph.D. in Materials Science from IISc Bangalore.
+- **Mr. Jaljith Narayanan**
+- **General Manager & Head - Human Resources, Nissan Digital India LLP**
+
+Mr. Jaljith Narayanan is a seasoned Human Resources leader with over two decades of experience in the technology and automotive sectors. Currently serving as the General Manager and Head of HR at Nissan Digital India, he spearheads strategic initiatives in talent acquisition, organizational development, and digital upscaling to supportthe company’s automotive
+technology goals. Prior to his leadership at Nissan, Mr. Narayanan held key HR positions at UST Global, where he played a pivotal role in talent management and corporate strategy. An alumnus of Rajagiri College of Social Sciences with a Master’s in Personnel Management & Industrial Relations (PM&IR), he is widely recognized for his expertise in navigating post-pandemic work models, fostering work-life integration, and driving employee engagement in hybrid environments. A thought leader in the industry, Mr. Narayanan is frequently invited to speak on the evolving landscape of recruitment and the future of work in the digital era.
 
 ## Objective
 - Inspire and empower participants by exposing them to real-life leadership journeys that spark motivation and clarity in their personal and career paths. 
@@ -38,7 +38,8 @@ Club: ELITE club
 
 ## For any queries, contact:
 
-- Anish Visakan -98948 40983
+- Anish Visakan - 98948 40983
+
 
 
 
