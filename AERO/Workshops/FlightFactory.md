@@ -1,8 +1,7 @@
 
 ## Flight Factory
 
-Join us for a two day hands on learning experience for students who want to build, not just listen. Explore aerodynamics, aeromodelling, 3D design, fabrication, and piloting while creating a fixed wing RC aircraft step by step. It is your chance to design, build, and fly a fully functional RC plane from scratch.
-
+Join us for a hands-on practical workshop in aeromodelling and RC aircraft technology, enabling you to design, fabricate, and pilot a fixed-wing RC aircraft. This isn't just a workshop - IT'S YOUR CHANCE TO CARVE AND FLY A FULLY FUNCTIONAL RC PLANE, that too FROM SCRATCH!
 
 ## Speaker
 
@@ -36,10 +35,10 @@ technology
 Department: Aerospace Engineering
 
 ## For any queries, contact:
-
-- Sanjay Pradnesh G: 9014852227, 
-- Pasupatheshwar T: 9443222851, 
+- Sreedaran M : 9442472075
+- Ram Venkat Nesan : 9944860878
 - Rishikesh S: 9345284596, 
+
 
 
 
