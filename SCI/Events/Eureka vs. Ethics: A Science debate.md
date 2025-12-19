@@ -1,6 +1,6 @@
 # Eureka vs. Ethics: A Science debate
 
-This debate event offers students a platform to engage with contemporary scientific, technological, and societal issues through structured arguments, audience interaction, and faculty evaluation, fostering spontaneity, critical thinking, and effective communication.
+This debate event offers students a platform to engage with contemporary scientific and technological issues through structured arguments, audience interaction, and faculty evaluation, fostering spontaneity, critical thinking, and effective communication.
 
 ## Event Schedule
 
