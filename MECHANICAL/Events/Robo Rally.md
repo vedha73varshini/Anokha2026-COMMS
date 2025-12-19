@@ -12,12 +12,11 @@ Speed meets endurance on a challenging multi-terrain track! Navigate ramps, brid
 ## Rules and Regulations
 
 - Bots start behind the start line and complete laps by crossing the finish line. 
-- Track includes ramps, bridges, slippery/uneven surfaces; reliability is required. 
+- Track includes slippery/uneven surfaces; reliability is required. 
 - Robots can be manual or autonomous but cannot receive outside help once the run starts. 
 - Teams get 3 minutes of practice, followed by 2 qualification laps; fastest counts. 
 - Leaving the track twice causes penalties or invalidation (for qualifiers). 
 - No interference with other robots; intentional blocking leads to disqualification. 
-- Winners are decided by cumulative race + qualification points.
 
 
 ## Organized By
