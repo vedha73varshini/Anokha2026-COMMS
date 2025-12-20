@@ -1,6 +1,5 @@
 # Auction Arena
-Ever wanted to run your own IPL franchise? Grab three friends and step into the high-stakes world of the cricket boardroom! You'll act as team owners, managing a virtual budget to outbid your rivals and scout the perfect lineup. It’s a test of strategy, quick thinking, and cricket passion to see if you can build a championship-winning squad under pressure.
-
+AuctionArena is the flagship cricket simulation event of the fest, designed to test participants on strategy, decision making, and financial planning. For the first time in the history of our auction events, the experience mirrors a real player auction, bringing added realism and intensity to the bidding floor. Teams will compete in a fast-paced, single-day auction to build a balanced and competitive squad within a fixed virtual budget.
 
 ## Event Schedule
 
@@ -12,8 +11,14 @@ Ever wanted to run your own IPL franchise? Grab three friends and step into the 
 
 - A team must consist of 3 members.
 - Be early: 15 mins before the event starts for hall allocation and registration.
+- The Challenge
+    - You will be assigned an IPL team and a virtual budget.
+    - Your goal: Build the ultimate squad.
+- The auction waits for no one. Please be on time after the lunch break to avoid missing big players.
 - Bring Your Own Device (BYOD). Teams are allowed to use mobile phones, laptops, or tablets during the auction to track stats and manage budgets. 
-- However, devices are strictly prohibited during the tie-breaker quiz.
+- The auction features a curated pool of current IPL players, and registered teams will receive the player list in advance so you can deep-dive into stats, form, and match-ups before the big day.
+- Before reaching the auction table, teams must survive fun and fast-paced surprise rounds that test pure IPL IQ. Only the top 10 teams will make it to the grand auction, so start brushing up on your IPL knowledge now.
+  
 
 
 ## Organized By
