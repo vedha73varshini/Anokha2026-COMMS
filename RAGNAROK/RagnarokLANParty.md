@@ -16,7 +16,13 @@ All events under Ragnarök will strictly adhere to the following rules and regul
   - Participants are responsible for the safety of their devices.
   - Non-licensed games are not allowed.
   - People who are caught playing non-licensed games will be kicked out with no reimbursement of registration fee.
-    
+
+## Code of Conduct:
+- Professional and sportsmanlike behavior is mandatory.
+- Harassment, toxicity, abuse, or offensive language will lead to immediate disqualification.
+- Use of emulators, hacks, mods, cheats, exploits, peripherals is subject to organizers discretion. 
+- Players must comply with instructions always given by referees and organizers
+  
 ## For any queries contact:
 
 - Karun - 6301237180
