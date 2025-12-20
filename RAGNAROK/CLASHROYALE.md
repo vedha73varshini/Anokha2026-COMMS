@@ -7,6 +7,9 @@ Clash Royale is a real-time, strategy-based multiplayer mobile game that combine
 - Second Prize - Rs. 4,500/-
 - Third Prize - Rs. 2,500/-
 
+## Challenge:
+The tournament will begin with approximately 140 participants (expected) capped at 150 competing in an in-game Clash Royale Mega Draft tournament, where all players queue simultaneously within a shared participant pool, and matchmaking functions similarly to standard online battles but is restricted to registered tournament players. Each match typically lasts 2–5 minutes, with matchmaking handled automatically by the game, allowing players to continuously queue and play matches until the tournament timer expires.1 Day Tournament where in the first hour we select top 100, top 50 in the second hour, top 25 in the third hour with which top 3 final winners will be determined based on overall tournament standings
+
 
 ## Rules and Regulations
 All events under Ragnarök will strictly adhere to the following rules and regulations:
