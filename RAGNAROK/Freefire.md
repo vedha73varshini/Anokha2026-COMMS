@@ -7,6 +7,20 @@ Free Fire is a fast-paced multiplayer battle royale mobile game that emphasizes 
 - Second Prize - Rs. 10,000
 - Third Prize - Rs. 6,000
 
+## Tournament Format
+
+- The tournament will commence with approximately 30–35 teams, with a maximum cap of 48 teams, competing in custom Free Fire room matches exclusively organized for registered participants.
+- Game Mode: Classic Clash Squad (5 rounds)
+- All matches will be conducted with character skills and special weapon attributes disabled. 
+- Unlimited ammo will be enabled, and in-game currency will be fixed at 10,000 for weapon purchases and all weapons will be enabled with no upgrades.
+- 48 teams, 4 groups 12, 12, 12, 12 each.
+- Round 1: Each group, 6 matches are played in parallel. 6 teams in each group advance to round 2.
+- Round 2: Each group, 3 matches are played in parallel. 3 teams in each group advance to round 3.
+- Round 3: 2 groups combine to make one group, essentially making two groups of 6 teams each. 3 matches are played in parallel in each group. 3 teams advance to round 4 in each group.
+- Round 4: Remaining 2 groups are combined to form a pool of 6 teams. 3 matches are played in parallel. 3 teams advance to Round 5.
+- Round 5: Each team plays against each other. The team with the lowest score will get their place accordingly. The remaining teams will fight for the remaining places.
+- Each match will last approximately 10–15 minutes, with total tournament duration of 2 hrs and 
+with a buffer period of 1 hr.
 
 ## Rules and Regulations
 
