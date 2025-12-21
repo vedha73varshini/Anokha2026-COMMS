@@ -1,6 +1,6 @@
 # RAGNAROK - VALORANT
 
-VALORANT is a competitive, team-based tactical shooter that emphasizes precision, communication, and strategic planning. As part of Ragnarök, the VALORANT tournament provides a high-intensity esports experience where teams compete in structured custom matches under tournament conditions. The event challenges participants to demonstrate individual mechanical skill, effective team coordination, and adaptive in-game strategy
+VALORANT is a competitive, team-based tactical shooter that emphasizes precision, communication, and strategic planning. As part of Ragnarok, the VALORANT tournament provides a high-intensity esports experience where teams compete in structured custom matches under tournament conditions. The event challenges participants to demonstrate individual mechanical skill, effective team coordination, and adaptive in-game strategy
 
 ## Prize Money
 - First Prize - Rs. 18,000
