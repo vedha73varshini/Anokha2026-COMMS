@@ -1,5 +1,5 @@
 # Auction Arena
-A cricket simulation event of the fest, designed to test participants on strategy, decision making, and financial planning. For the first time in the history of our auction events, the experience mirrors a real player auction, bringing added realism and intensity to the bidding floor. Teams will compete in a fast-paced, single-day auction to build a balanced and competitive squad within a fixed virtual budget.
+A cricket simulation event designed to test participants on strategy, decision making, and financial planning. For the first time in the history of our auction events, the experience mirrors a real player auction, bringing added realism and intensity to the bidding floor. Teams will compete in a fast-paced, single-day auction to build a balanced and competitive squad within a fixed virtual budget.
 
 ## Event Schedule
 
@@ -17,7 +17,7 @@ A cricket simulation event of the fest, designed to test participants on strateg
 - The auction waits for no one. Please be on time after the lunch break to avoid missing big players.
 - Bring Your Own Device (BYOD). Teams are allowed to use mobile phones, laptops, or tablets during the auction to track stats and manage budgets. 
 - The auction features a curated pool of current IPL players, and registered teams will receive the player list in advance so you can deep-dive into stats, form, and match-ups before the big day.
-- Before reaching the auction table, teams must survive fun and fast-paced surprise rounds that test pure IPL IQ. Only the top 10 teams will make it to the grand auction, so start brushing up on your IPL knowledge now.
+- Before reaching the auction table, teams must survive fun and fast-paced surprise rounds that test pure IPL IQ. Only the top 10 teams will make it to the grand auction.
   
 
 
