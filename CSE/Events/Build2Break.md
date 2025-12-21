@@ -74,6 +74,15 @@ All submissions must include:
 - Teams retain full ownership of their **code, systems, and artifacts**
 - By submitting, teams grant the organizers **non-exclusive rights** to use submissions for judging, publicity, and future educational purposes
 
+---
+## Judging Process & Reproducibility
+
+- Judges will run the submitted artifacts on **provided hardware** or **judge-hosted infrastructure**, strictly following the instructions in the supplied README.
+- Each **Build phase system** will be evaluated against all valid **Break phase submissions** applicable to its respective track.
+- **Break submissions** may be assessed across multiple target systems where relevant.
+- If judges are unable to **reproduce a submission** within the allotted time using the provided instructions, **reproducibility-related points may be reduced**.
+- The **top 10 teams** will be invited to present their systems and approaches to the **final judging panel**.
+
 
 ## Organized By
 
