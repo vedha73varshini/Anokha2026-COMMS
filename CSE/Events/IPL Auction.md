@@ -1,5 +1,5 @@
 # Auction Arena
-AuctionArena is the flagship cricket simulation event of the fest, designed to test participants on strategy, decision making, and financial planning. For the first time in the history of our auction events, the experience mirrors a real player auction, bringing added realism and intensity to the bidding floor. Teams will compete in a fast-paced, single-day auction to build a balanced and competitive squad within a fixed virtual budget.
+A cricket simulation event of the fest, designed to test participants on strategy, decision making, and financial planning. For the first time in the history of our auction events, the experience mirrors a real player auction, bringing added realism and intensity to the bidding floor. Teams will compete in a fast-paced, single-day auction to build a balanced and competitive squad within a fixed virtual budget.
 
 ## Event Schedule
 
