@@ -24,30 +24,47 @@ EPICtures 2026, The Short Film Festival of ANOKHA 2026-The 13th Annual National 
 
 
 ## Judging Criteria
-- **Phase 1** (Shortlisting)<br>
-  - Clarity of Plot – The story has a well-defined and coherent narrative.
-  - Character Relevance – Characters effectively contribute to the progression of the plot.
-  - Originality & Engagement – The concept is unique and maintains audience interest.
-  - Visual Arrangement – Visual elements are composed to support the film’s purpose.
-  - Continuity – Smooth flow and logical sequence between scenes.
-- **Phase 2** (Final Screening)<br>
-    1. **Content**<br>
-       - Script/Story
-       - Ingenuity
-       - Clarity
-       - Creativity.
-    2. **Technical Expertise**
-       - Composition Skill
-       - Cinematography
-       - Editing
-       - Sound Design and Soundtrack
-       - Visual Creativity
-    3. **Originality and Overall Quality**
-       - Independent thought and Imagination
-       - Overall Impression
-       - Enjoyment factor
-       - Meaningfulness
-       - Replay Value
+
+### Phase 1: Shortlisting
+
+1. **Clarity of Plot**  
+   The story presents a clear, coherent, and well-structured narrative.
+
+2. **Character Relevance**  
+   Characters meaningfully contribute to the development and progression of the plot.
+
+3. **Originality and Engagement**  
+   The concept demonstrates originality and sustains audience interest throughout.
+
+4. **Visual Arrangement**  
+   Visual elements are thoughtfully composed to enhance and support the film’s intent.
+
+5. **Continuity**  
+   Scenes transition smoothly with logical flow and consistency.
+
+---
+
+### Phase 2: Final Screening
+
+#### 1. Content
+- Script and Story  
+- Ingenuity  
+- Clarity  
+- Creativity  
+
+#### 2. Technical Expertise
+- Composition Skills  
+- Cinematography  
+- Editing  
+- Sound Design and Soundtrack  
+- Visual Creativity  
+
+#### 3. Originality and Overall Quality
+- Independent Thought and Imagination  
+- Overall Impression  
+- Enjoyment Factor  
+- Meaningfulness  
+- Replay Value  
 
 ## Judge
 Mr. Sudhir Srinivasan<br> 
