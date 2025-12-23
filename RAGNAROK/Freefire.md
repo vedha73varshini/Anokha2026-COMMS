@@ -32,7 +32,7 @@ with a buffer period of 1 hr.
   - Organizers' and referees' decisions are final and binding.
 
 2. Bring Your Own PC (BYOP) Rules
-  - Bring your own PC/laptop, peripherals (Mouse, Headset, Keyboard, NO MONITORS), power adapters, and cables.
+  - Bring your own mobile phones, power adapters, and cables.
   - Systems must be fully functional.
   - Power sockets and LAN access will be shared.
   - Participants are solely responsible for equipment safety and security.
