@@ -1,21 +1,12 @@
 # ACM Winter of Code (WoC) 2.0
 
-- Winter of Code (WoC) 2.0 is the second edition of the ACM Student Chapter’s flagship open source coding event, held as part of Anokha 2026.
-- The event aims to introduce participants to the world of open source by giving them hands-on experience with real projects.
-- Participants get to explore open-source projects with issues of different difficulty levels.
-- Participants choose issues they are interested in and start working on it.
-- The event follows a race-based system, where multiple people work on the same issue and the fastest pull request is reviewed first.
-- If a pull request meets the project maintainer's requirements, it is merged and the issue is closed. If it fails to meet said requirements, changes are requested and the next pull request is reviewed.
-- Points are awarded for merged pull requests based on the type and difficulty of the issue, along with bonuses and penalties.
-- A live leaderboard tracks points and ranks participants throughout the event.
-- WoC focuses on learning and personal growth by helping participants learn new skills, explore the latest technological landscape, and be a part of a strong open-source community at Amrita. The event is open to participants of all academic years and experience levels.
+## ACM Winter of Code (WoC) 2.0 is an open-source coding event conducted by the ACM Student Chapter as part of Anokha 2026.
 
-## Event Duration
-- TBD 
+Participants work on real open-source projects by solving curated issues of varying difficulty and compete to submit the fastest valid solutions via pull requests. Contributions are evaluated based on project requirements, with points awarded for successful merges and reflected on a live leaderboard. The event is open to students from all academic years and experience levels and focuses on learning, collaboration, and practical exposure to open-source development.
   
 
 ## WoC Page Link
-TBD
+http://woc.anokha.amrita.edu/
 
 
 ## Event Orientation
