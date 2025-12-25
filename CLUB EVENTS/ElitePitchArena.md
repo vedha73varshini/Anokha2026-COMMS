@@ -17,7 +17,7 @@ Dive into the world of entrepreneurship at Elite Pitch Arena, where student inno
 - Final Scoring: Winners are determined through a combined score from judges’ evaluations and audience investment outcomes.
 - Awards & Recognition: Top teams are recognized and awarded across relevant categories.
 
-
+---
 ## Organized By
 
 Club: ELITE club
@@ -25,6 +25,7 @@ Club: ELITE club
 ## For any queries contact:
 
 - Anish Visakan : +91 98948 40983
+
 
 
 
