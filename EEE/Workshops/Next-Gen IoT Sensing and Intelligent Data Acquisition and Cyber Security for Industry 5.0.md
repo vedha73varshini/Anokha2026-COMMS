@@ -1,6 +1,6 @@
 
 ##  Hands-on Workshop: Next-Gen IoT Sensing and Intelligent Data Acquisition and Cyber Security for Industry 5.0
-This workshop is built around a Cyber Defense Challenge, where participants construct an IoTcontrolled system and then face simulated enemy cyber attacks. Participants will learn to develop IoT sensing systems, cloud-based dashboards, and automation platforms, forming the digital infrastructure to be protected.
+This workshop is built around a Cyber Defense Challenge, where participants construct an IoT-controlled system and then face simulated enemy cyber attacks. Participants will learn to develop IoT sensing systems, cloud-based dashboards, and automation platforms, forming the digital infrastructure to be protected.
 
 Participants will witness live cyber attacks, including Man-in-the-Middle (MITM) and False Data Injection, to understand how real-world systems are compromised. The challenge phase divides participants into Attack and Defense units, one unit attempts to breach the system, while the other works to detect intrusions, secure data, and defend the infrastructure. This challenge-driven format highlights the critical balance between cyber attacks and cyber security.
 
@@ -10,12 +10,29 @@ Participants will witness live cyber attacks, including Man-in-the-Middle (MITM)
 Director - Technical, SARA Controls and Automation
 - **R. Sasikumar** (M.E., MISTE.,MIAENG)<br>
 Director - Technical, SARA Controls and Automation
-  
+
+## Workshop Topics
+1. Seven-Segment Display Control Using a Web Server (NodeMCU)
+   - Basics of IoT and NodeMCU architecture
+   -  Setting up ESP8266/ESP32 as a Web Server
+   -  Controlling a 7-segment display over Wi-Fi
+   -   Demonstration of remote device access 
+2. Building a Simple IoT-Based Home Automation App
+   - Introduction to mobile app–based automation
+   -  Creating a basic control app (Android/Web UI)
+   -   Interfacing NodeMCU with relays
+   -   Real-time control of home appliances via Wi-Fi
+3. Plotting Real-Time Sensor Data Using ThinkSpeak / Google Firebase
+   - Basics of cloud integration
+   - Sensor data acquisition (Temperature, light, etc.)
+   - Sending data to ThinkSpeak / Firebase
+   - Real-time graph visualization and dashboard creation 
+
 ## Objectives
-• To provide hands-on experience in IoT system development and cloud integration
-• To demonstrate live cyber attacks (MITM and False Data Injection) on IoT systems
-• To train participants in both cyber attack and defence strategies
-• To simulate real-world cyber warfare scenarios in a controlled environment
+- To provide hands-on experience in IoT system development and cloud integration
+- To demonstrate live cyber attacks (MITM and False Data Injection) on IoT systems
+- To train participants in both cyber attack and defence strategies
+- To simulate real-world cyber warfare scenarios in a controlled environment
   
 ## Outcomes
 By the end of the workshop, participants will be able to:
