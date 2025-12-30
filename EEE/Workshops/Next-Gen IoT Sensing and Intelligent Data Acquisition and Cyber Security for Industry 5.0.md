@@ -1,7 +1,9 @@
 
 ##  Hands-on Workshop: Next-Gen IoT Sensing and Intelligent Data Acquisition and Cyber Security for Industry 5.0
 This workshop is built around a Cyber Defense Challenge, where participants construct an IoTcontrolled system and then face simulated enemy cyber attacks. Participants will learn to develop IoT sensing systems, cloud-based dashboards, and automation platforms, forming the digital infrastructure to be protected.
+
 Participants will witness live cyber attacks, including Man-in-the-Middle (MITM) and False Data Injection, to understand how real-world systems are compromised. The challenge phase divides participants into Attack and Defense units, one unit attempts to breach the system, while the other works to detect intrusions, secure data, and defend the infrastructure. This challenge-driven format highlights the critical balance between cyber attacks and cyber security.
+
 
 ## Speaker
 - **B. Raghavendran** (M.E., MISTE., MIAENG)<br>
