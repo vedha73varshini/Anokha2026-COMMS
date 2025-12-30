@@ -36,11 +36,11 @@ Director - Technical, SARA Controls and Automation
   
 ## Outcomes
 By the end of the workshop, participants will be able to:
-• Build and deploy IoT dashboards and sensor networks
-• Understand and perform MITM and False Data Injection attacks
-• Identify vulnerabilities and apply basic security countermeasures
-• Appreciate the balance between attacking and defending digital systems
-• Gain practical exposure to IoT cyber security challenges
+- Build and deploy IoT dashboards and sensor networks
+- Understand and perform MITM and False Data Injection attacks
+- Identify vulnerabilities and apply basic security countermeasures
+- Appreciate the balance between attacking and defending digital systems
+- Gain practical exposure to IoT cyber security challenges
   
 
 
